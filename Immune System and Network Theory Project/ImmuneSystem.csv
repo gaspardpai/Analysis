@@ -1,0 +1,2811 @@
+﻿Source_Name,Target_Name,Edge_Effect
+41BBL,T,Activate
+41BBL,B,Activate
+Antibody,DC,Activate
+Antibody,pDC,Activate
+Antibody,Basophil,Activate
+Antibody,NK,Activate
+Antibody,Mast,Activate
+APC,T_CD4 (effector),Activate
+APC,T_CD4 (effector),Activate
+APC,Th1,Activate
+APRIL,B,Activate
+APRIL,B,Activate
+APRIL,B,Activate
+APRIL,B,Activate
+B,T_CD4,Activate
+B,Tfh,Activate
+B,Tfh,Activate
+B,Tfh,Activate
+B,Tfh,Activate
+B,Tfh,Activate
+B,Tfh,Activate
+B,Tfh,Activate
+B,T_CD4 (effector),Activate
+B,Tfh,Activate
+B,Tfh,Activate
+B,Tfh,Activate
+B_memory,Tfh,Activate
+B_memory,Tfh,Activate
+B_memory,Tfh,Activate
+Bacteria,Epithelial_intestine,Activate
+Bacteria,Epithelial_intestine,Activate
+Bacteria,DC,Activate
+Bacterial metabolites,T_MAIT,Activate
+Bacterial Peptidoglycans,DC,Activate
+Bacterial Peptidoglycans,Monocyte,Activate
+Bacterial Peptidoglycans,Neutrophil,Activate
+Bacterial Peptidoglycans,Epithelial_barrier,Activate
+Bacterial Peptidoglycans,DC,Activate
+Bacterial Peptidoglycans,Macrophage,Activate
+Bacterial Peptidoglycans,Epithelial_intestine,Activate
+Bacterial Peptidoglycans,Paneth,Activate
+Bacterial proteins,Epithelial_intestine,Activate
+Bacterial proteins,Epithelial_intestine,Activate
+Bacterial proteins,DC (CD8a+),Activate
+BAFF,B,Activate
+BAFF,B_marginalzone,Activate
+BAFF,B,Activate
+BAFF,B,Activate
+b-glucan,DC,Activate
+b-glucan,Basophil,Activate
+b-glucan,DC,Activate
+b-glucan,Eosinophil,Activate
+b-glucan,Mast,Activate
+b-glucan,Monocyte,Activate
+C3a,Macrophage,Activate
+C3a,Endothelial,Activate
+C3a,Mast,Activate
+C3a,Endothelial,Activate
+C3a,Mast,Activate
+C3a,Endothelial_vascular,Activate
+C3a,Mast,Activate
+C3b,Neutrophil,Activate
+C3b,Macrophage,Activate
+C3b,Monocyte,Activate
+C3b,B,Activate
+C3b,FDC,Activate
+C3b,Erythrocyte,Activate
+C3b,Macrophage,Activate
+C3b,Neutrophil,Activate
+C3b,Macrophage,Activate
+C3b,Neutrophil,Activate
+C3b,Macrophage,Activate
+C3b,Eosinophil,Activate
+C3d,B,Activate
+C3d,FDC,Activate
+C3d,B,Activate
+C3dg,B,Activate
+C3dg,B,Activate
+C3dg,B,Activate
+C3dg,FDC,Activate
+C3dg,B,Activate
+C4bi,Monocyte,Activate
+C4bi,B,Activate
+C4bi,FDC,Activate
+C4bi,Erythrocyte,Activate
+C4bi,Macrophage,Activate
+C4bi,Neutrophil,Activate
+C5a,Macrophage,Activate
+C5a,Endothelial,Activate
+C5a,Mast,Activate
+C5a,Neutrophil,Activate
+C5a,Endothelial,Activate
+C5a,Mast,Activate
+C5a,Endothelial,Activate
+C5a,Endothelial,Activate
+C5a,Endothelial_vascular,Activate
+C5a,Macrophage,Activate
+C5a,Mast,Activate
+C5a,Mast,Activate
+C5a,Mast,Activate
+C5a,Monocyte,Activate
+C5a,Neutrophil,Activate
+C5a,Neutrophil,Activate
+C5a,Neutrophil,Activate
+C5a,Mast,Activate
+CCL11,Basophil,Activate
+CCL13,Eosinophil,Activate
+CCL19,DC,Activate
+CCL2,Macrophage,Activate
+CCL2,Basophil,Activate
+CCL2,Monocyte,Activate
+CCL21,DC,Activate
+CCL21,DC,Activate
+CCL24,Basophil,Activate
+CCL26,Basophil,Activate
+CCL3,Macrophage,Activate
+CCL4,Macrophage,Activate
+CCL5,T,Activate
+CCL5,Basophil,Activate
+CCL5,Eosinophil,Activate
+CCL5,Macrophage,Activate
+CCL7,Eosinophil,Activate
+CD27L,T,Activate
+CD30L,T,Activate
+CD30L,B,Activate
+CD40L,B,Activate
+Chitin,Basophil,Activate
+Chitin,Eosinophil,Activate
+Chitin,Mast,Activate
+Chitin,Epithelial,Activate
+CpG DNA,B,Activate
+CXCL1,Neutrophil,Activate
+CXCL1,Fibroblast,Activate
+CXCL11,Macrophage,Activate
+CXCL2,Neutrophil,Activate
+CXCL2,Fibroblast,Activate
+CXCL3,Neutrophil,Activate
+CXCL3,Fibroblast,Activate
+CXCL7,Neutrophil,Activate
+CXCL8,Neutrophil,Activate
+IL18,Neutrophil,Activate
+CXCL8,Neutrophil,Activate
+CXCL8,Neutrophil,Activate
+CXCL8,Macrophage,Activate
+CXCL9,Macrophage,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,B_memory,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_NKT,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD4,Activate
+DC,T_CD4,Activate
+DC,T_CD4,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD4 (effector),Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,B,Activate
+DC,T (effector),Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T_CD8,Activate
+DC,T_CD4,Activate
+DC,T_CD4,Activate
+DC,T_CD8,Activate
+DC,T (memory),Activate
+dsRNA,DC,Activate
+dsRNA,Macrophage,Activate
+dsRNA,DC,Activate
+dsRNA,Epithelial_intestine,Activate
+dsRNA,Macrophage,Activate
+dsRNA,DC,Activate
+dsRNA,Epithelial_intestine,Activate
+Eosinophil peroxidase,Mast,Activate
+Epithelial_intestine,IEL_CD8,Activate
+Epithelial_intestine,T_gd,Activate
+Epithelial_intestine,T_Cytotoxic,Activate
+Epithelial_intestine,NK,Activate
+Epithelial_intestine,IEL_CD8,Activate
+Epithelial_intestine,IEL_CD8_b,Activate
+Epithelial_Mucosa,IEL_CD8_b,Activate
+Epithelial_Mucosa,IEL_CD8_a,Activate
+FDC,B,Activate
+Fibroblast,T_gd,Activate
+Fibroblast,T_Cytotoxic,Activate
+Fibroblast,NK,Activate
+Flagellin,Epithelial_intestine,Activate
+Flagellin,Macrophage,Activate
+Flagellin,DC,Activate
+Flagellin,Macrophage,Activate
+Flagellin,DC,Activate
+Flagellin,Epithelial_intestine,Activate
+Flagellin,DC,Activate
+Flagellin,DC (CD11b+),Activate
+Flagellin,Epithelial_intestine,Activate
+Flagellin,DC (CD11b+),Activate
+Flagellin ,DC,Activate
+GMCSF,Eosinophil,Activate
+GMCSF,Eosinophil,Activate
+GMCSF,Eosinophil,Activate
+GMCSF,Mast,Activate
+GMCSF,Basophil,Activate
+Heat-shock proteins,T_gd,Activate
+Heat-shock proteins,DC,Activate
+Histamine,Endothelial_vascular,Activate
+Histamine,DC,Activate
+Histamine,Th1,Activate
+Histamine,Endothelial_vascular,Activate
+Histamine,Stromal_PeripheralNerveEndings,Activate
+Histamine,Endothelial,Activate
+Histamine,Endothelial_vascular,Activate
+Histamine,Endothelial_vascular,Activate
+Histamine,Endothelial ,Activate
+iC3b,B,Activate
+iC3b,FDC,Activate
+iC3b,Macrophage,Activate
+iC3b,Monocyte,Activate
+iC3b,Neutrophil,Activate
+iC3b,FDC,Activate
+iC3b,Macrophage,Activate
+iC3b,Monocyte,Activate
+iC3b,Neutrophil,Activate
+iC3b,DC,Activate
+iC3b,Macrophage,Activate
+IFNa,NK,Activate
+IFNa,NK,Activate
+IFNa,pDC,Activate
+IFNa,Monocyte,Activate
+IFNa,DC,Activate
+IFNb,NK,Activate
+IFNb,NK,Activate
+IFNb,pDC,Activate
+IFNg,Macrophage,Activate
+IFNg,DC,Activate
+IFNg,Macrophage,Activate
+IFNg,DC,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,NK,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Epithelial_Mucosa,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Endothelial_vascular,Activate
+IFNg,Macrophage,Activate
+IFNg,Macrophage,Activate
+IFNg,Keratinocyte,Activate
+IFNg,Keratinocyte,Activate
+IFNg,Macrophage,Activate
+IFNg,T_reg,Activate
+IgA,DC,Activate
+IgA,B,Activate
+IgA,Macrophage,Activate
+IgA,B,Activate
+IgA,Eosinophil,Activate
+IgA,Macrophage,Activate
+IgA,Eosinophil,Activate
+IgA,Neutrophil,Activate
+IgA,Neutrophil,Activate
+IgA,Macrophage,Activate
+IgA,Eosinophil,Activate
+IgA,Neutrophil,Activate
+IgA,Macrophage,Activate
+IgA,DC,Activate
+IgA ,Macrophage,Activate
+IgA1,Macrophage,Activate
+IgA1,Neutrophil,Activate
+IgA2,Neutrophil,Activate
+IgA2,Macrophage,Activate
+IgE,Eosinophil,Activate
+IgE,Basophil,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Basophil,Activate
+IgE,Mast,Activate
+IgE,Basophil,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Basophil,Activate
+IgE,Basophil,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,DC,Activate
+IgE,Mast,Activate
+IgE,Basophil,Activate
+IgE,Eosinophil,Activate
+IgE,B,Activate
+IgE,Basophil,Activate
+IgE,Eosinophil,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Eosinophil,Activate
+IgE,Basophil,Activate
+IgE,Eosinophil,Activate
+IgE,Mast,Activate
+IgE,Basophil,Activate
+IgE,Macrophage,Activate
+IgE,Neutrophil,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Basophil,Activate
+IgE,Mast,Activate
+IgE,Eosinophil,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Basophil,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgE,Mast,Activate
+IgG,Mast,Activate
+IgG,Mast,Activate
+IgG,Mast,Activate
+IgG,NK,Activate
+IgG,NK,Activate
+IgG,Macrophage,Activate
+IgG,Neutrophil,Activate
+IgG,Eosinophil,Activate
+IgG,Neutrophil,Activate
+IgG,Macrophage,Activate
+IgG,Eosinophil,Activate
+IgG,Macrophage,Activate
+IgG,Neutrophil,Activate
+IgG,NK,Activate
+IgG,Neutrophil,Activate
+IgG,Macrophage,Activate
+IgG,Eosinophil,Activate
+IgG1,Macrophage,Activate
+IgG1,Neutrophil,Activate
+IgG1,Eosinophil,Activate
+IgG1,Eosinophil,Activate
+IgG1,Macrophage,Activate
+IgG1,Neutrophil,Activate
+IgG1,Platelet,Activate
+IgG1,Langerhans,Activate
+IgG1,NK,Activate
+IgG1,Eosinophil,Activate
+IgG1,Macrophage,Activate
+IgG1,Neutrophil,Activate
+IgG1,Mast,Activate
+IgG1,NK,Activate
+IgG1,Macrophage,Activate
+IgG1,Neutrophil,Activate
+IgG1,Macrophage,Activate
+IgG1,Neutrophil,Activate
+IgG1,NK,Activate
+IgG1,Macrophage,Activate
+IgG3,NK,Activate
+IgG3,Macrophage,Activate
+IgG3,Neutrophil,Activate
+IgG3,Neutrophil,Activate
+IgG3,Macrophage,Activate
+IgG3,NK,Activate
+IgM,Macrophage,Activate
+IgM,B,Activate
+IgM,Macrophage,Activate
+IgM,B,Activate
+IL1,Macrophage,Activate
+IL1,Neutrophil,Activate
+IL1,IEL_CD8,Activate
+IL1,Th17,Activate
+IL1,ILC3,Activate
+IL1,Th17,Activate
+IL1,Macrophage,Activate
+IL10,B,Activate
+IL10,B,Activate
+IL10,Mast,Activate
+IL12,NK,Activate
+IL12,NK,Activate
+IL12,NK,Activate
+IL12,NK,Activate
+IL12,pDC,Activate
+IL12,ILC1,Activate
+IL12,NK,Activate
+IL12,ILC1,Activate
+IL12,ILC1,Activate
+IL12,ILC1,Activate
+IL12,ILC1,Activate
+IL12,Th1,Activate
+IL12,Th1,Activate
+IL12,Th1,Activate
+IL12,Th1,Activate
+IL12,Th1,Activate
+IL12,Th1,Activate
+IL12,ILC1,Activate
+IL12,Th1,Activate
+IL12,Th1,Activate
+IL12,T_CD8,Activate
+IL12,ILC3,Activate
+IL12,NK,Activate
+IL12,NK,Activate
+IL12,NK,Activate
+IL12,NK,Activate
+IL12,T_CD8,Activate
+IL12,Th1,Activate
+IL12,Th1,Activate
+IL12,Th1,Activate
+IL12 ,T_CD8,Activate
+IL13,Macrophage_marginalzone,Activate
+IL13,Goblet,Activate
+IL13,DC,Activate
+IL13,Epithelial_intestine,Activate
+IL13,Macrophage,Activate
+IL13,Macrophage,Activate
+IL13,Basophil,Activate
+IL13,Eosinophil,Activate
+IL13,Goblet,Activate
+IL13,DC,Activate
+IL13,Smooth muscle,Activate
+IL13,Epithelial_Mucosa,Activate
+IL13,Goblet,Activate
+IL13,Epithelial_Mucosa,Activate
+IL13,Smooth muscle,Activate
+IL13,M2,Activate
+IL13,Smooth muscle,Activate
+IL13,Th2,Activate
+IL13,Goblet,Activate
+IL15,Epithelial_intestine,Activate
+IL15,NK,Activate
+IL15,T,Activate
+IL15,IEL_CD8_b,Activate
+IL15,DC,Activate
+IL15,Epithelial_intestine,Activate
+IL17,Epithelial,Activate
+IL17,Myeloid,Activate
+IL17,Stromal ,Activate
+IL17,Epithelial,Activate
+IL17,Epithelial ,Activate
+IL17,Fibroblast,Activate
+IL17,Epithelial,Activate
+IL17,Epithelial_barrier,Activate
+IL17,Fibroblast,Activate
+IL17,Keratinocyte,Activate
+IL17,Epithelial,Activate
+IL17,Epithelial_barrier,Activate
+IL17,Myeloid,Activate
+IL17,Stromal,Activate
+IL17,Stromal,Activate
+IL17,Epithelial_barrier,Activate
+IL17,Stromal,Activate
+IL17,Stromal,Activate
+IL17,Keratinocyte,Activate
+IL17,Stromal,Activate
+IL17A,Endothelial,Activate
+IL17A,Epithelial,Activate
+IL17A,Fibroblast,Activate
+IL17F,Endothelial,Activate
+IL17F,Epithelial,Activate
+IL17F,Fibroblast,Activate
+IL18,T,Activate
+IL18,NK,Activate
+IL18,NK,Activate
+IL18,pDC,Activate
+IL18,ILC1,Activate
+IL18,ILC1,Activate
+IL18,ILC1,Activate
+IL18,Th1,Activate
+IL18,ILC1,Activate
+IL18,Th1,Activate
+IL18,T_CD8,Activate
+IL18,NK,Activate
+IL18,T_CD8,Activate
+IL18,T_CD8,Activate
+IL19,Monocyte,Activate
+IL1a,Macrophage,Activate
+IL1a,T,Activate
+IL1b,Macrophage,Activate
+IL1b,T,Activate
+IL1b,Endothelial_vascular,Activate
+IL1b,ILC3,Activate
+IL1b,Hepatocyte,Activate
+IL1b,Hepatocyte,Activate
+IL1b,ILC3,Activate
+IL2,T,Activate
+IL2,T_CD4,Activate
+IL2,T_reg,Activate
+IL2,B,Activate
+IL2,NK,Activate
+IL2,T_CD8,Activate
+IL2,T_CD8,Activate
+IL20,Keratinocyte,Activate
+IL21,T,Activate
+IL21,NK,Activate
+IL21,B,Activate
+IL21,B,Activate
+IL21,B,Activate
+IL21,B,Activate
+IL21,B,Activate
+IL21,Tfh,Activate
+IL21,B,Activate
+IL21,T,Activate
+IL22,Hepatocyte,Activate
+IL22,Epithelial_barrier,Activate
+IL22,Epithelial,Activate
+IL22,Epithelial_barrier,Activate
+IL22,Epithelial_barrier,Activate
+IL22,Goblet,Activate
+IL22,Epithelial_intestine,Activate
+IL22,Epithelial_intestine,Activate
+IL22,Paneth,Activate
+IL22,Epithelial_intestine,Activate
+IL22,Epithelial_barrier,Activate
+IL22,Paneth,Activate
+IL22,Epithelial_intestine,Activate
+IL22,Epithelial_barrier,Activate
+IL22,Epithelial_barrier,Activate
+IL22,Epithelial,Activate
+IL22,Epithelial_barrier,Activate
+IL23,Th17_memory,Activate
+IL23,ILC3,Activate
+IL23,Th17,Activate
+IL23,Th17,Activate
+IL23,ILC3,Activate
+IL23,ILC3,Activate
+IL23,ILC3,Activate
+IL23,LTi,Activate
+IL23,Th17,Activate
+IL23,Th17,Activate
+IL23,Th17,Activate
+IL23,Th17,Activate
+IL23,ILC3,Activate
+IL23,Th17,Activate
+IL23,Th1,Activate
+IL23,ILC3,Activate
+IL23,ILC3,Activate
+IL25,Th2,Activate
+IL25,ILC2,Activate
+IL25,ILC2,Activate
+IL25,ILC2,Activate
+IL25,ILC2,Activate
+IL25,Mast,Activate
+IL26,Epithelial,Activate
+IL27,T,Activate
+IL3,Eosinophil,Activate
+IL3,Hematopoietic,Activate
+IL3,Mast,Activate
+IL3,Mast,Activate
+IL3,Eosinophil,Activate
+IL3,Eosinophil,Activate
+IL3,Mast,Activate
+IL3,Basophil,Activate
+IL31,Th2,Activate
+IL32,Unknown,Activate
+IL33,Th2,Activate
+IL33,ILC2,Activate
+IL33,Th2,Activate
+IL33,ILC2,Activate
+IL33,ILC2,Activate
+IL33,ILC2,Activate
+IL33,Th2,Activate
+IL33,ILC2,Activate
+IL33,Th2,Activate
+IL33,ILC2,Activate
+IL33,Mast,Activate
+IL33,Th2,Activate
+IL36,DC,Activate
+IL36,Macrophage,Activate
+IL4,B,Activate
+IL4,Mast,Activate
+IL4,Basophil,Activate
+IL4,B,Activate
+IL4,Macrophage_marginalzone,Activate
+IL4,Mast,Activate
+IL4,Macrophage,Activate
+IL4,M2,Activate
+IL4,Mast,Activate
+IL4,Th2,Activate
+IL5,Eosinophil,Activate
+IL5,B,Activate
+IL5,Eosinophil,Activate
+IL5,Eosinophil,Activate
+IL5,Basophil,Activate
+IL5,Eosinophil,Activate
+IL5,Eosinophil,Activate
+IL5,Eosinophil,Activate
+IL5,Eosinophil,Activate
+IL5,Eosinophil,Activate
+IL5,Mast,Activate
+IL5,Basophil,Activate
+IL6,B,Activate
+IL6,pDC,Activate
+IL6,B_Plasma,Activate
+IL6,Macrophage,Activate
+IL6,Hepatocyte,Activate
+IL6,Hepatocyte,Activate
+IL6,Fibroblast,Activate
+IL9,ILC2,Activate
+IL9,Mast,Activate
+IL9,Th2,Activate
+IL9,Mast,Activate
+IL9,Mast,Activate
+Kynurenine,ILC3,Activate
+Langerhans,Th1,Activate
+Leukotriene B4,Endothelial,Activate
+Leukotriene C4,Endothelial_vascular,Activate
+Leukotriene C4,Smooth muscle,Activate
+Leukotriene D4,Endothelial_vascular,Activate
+Leukotriene D4,Smooth muscle,Activate
+Leukotriene E4,Endothelial_vascular,Activate
+Leukotriene E4,Smooth muscle,Activate
+Leukotrienes,Smooth muscle,Activate
+Leukotrienes,Endothelial_vascular,Activate
+LIGHT,DC,Activate
+Lipomannans,Basophil,Activate
+Lipomannans,DC,Activate
+Lipomannans,Eosinophil,Activate
+Lipomannans,Mast,Activate
+Lipomannans,Monocyte,Activate
+Lipoproteins,Basophil,Activate
+Lipoproteins,Basophil,Activate
+Lipoproteins,DC,Activate
+Lipoproteins,DC,Activate
+Lipoproteins,Eosinophil,Activate
+Lipoproteins,Eosinophil,Activate
+Lipoproteins,Macrophage,Activate
+Lipoproteins,Mast,Activate
+Lipoproteins,Mast,Activate
+Lipoproteins,Monocyte,Activate
+Lipoteichoic acids,Basophil,Activate
+Lipoteichoic acids,Basophil,Activate
+Lipoteichoic acids,DC,Activate
+Lipoteichoic acids,DC,Activate
+Lipoteichoic acids,Eosinophil,Activate
+Lipoteichoic acids,Eosinophil,Activate
+Lipoteichoic acids,Macrophage,Activate
+Lipoteichoic acids,Mast,Activate
+Lipoteichoic acids,Mast,Activate
+Lipoteichoic acids,Monocyte,Activate
+Lipoteichoic acids,Macrophage,Activate
+Lipoteichoic acids,DC,Activate
+Lipoteichoic acids,Mast,Activate
+Lipoteichoic acids,Eosinophil,Activate
+LPS,B,Activate
+LPS,DC,Activate
+LPS,Macrophage,Activate
+LPS,Macrophage,Activate
+LPS,DC,Activate
+LPS,Mast,Activate
+LPS,Eosinophil,Activate
+LPS,DC,Activate
+LPS,Endothelial,Activate
+LPS,B,Activate
+LPS,Macrophage,Activate
+LTa,Endothelial,Activate
+LTa,Macrophage,Activate
+LTa,Macrophage,Activate
+LTa,Neutrophil,Activate
+LTa,Macrophage,Activate
+LTa,Endothelial_vascular,Activate
+LTa,Endothelial,Activate
+LTa,Endothelial_vascular,Activate
+Macrophage,T_CD4,Activate
+Macrophage,Th1,Activate
+Macrophage,Th1,Activate
+Macrophage,Th1,Activate
+Macrophage,T_CD4 (effector),Activate
+Macrophage,Th1,Activate
+Macrophage,Th1,Activate
+Macrophage,Th1,Activate
+Macrophage,Th1,Activate
+Macrophage,T_CD4 (effector),Activate
+Macrophage,Th1,Activate
+Macrophage,Th1,Activate
+Major basic protein,Mast,Activate
+Major basic protein,Mast,Activate
+Major basic protein,Basophil,Activate
+Microbe antigens,B,Activate
+Microbial lipids,T_gd,Activate
+Microbial lipids,T_gd,Activate
+Microbial lipids,T_NKT,Activate
+Microbial lipids,T_gd,Activate
+Microbial metabolites,T_MAIT,Activate
+Microbial metabolites,T_MAIT,Activate
+Microbial products,DC,Activate
+Microbial products,Macrophage,Activate
+Microbial products,Macrophage,Activate
+Microglia,T_CD4 (effector),Activate
+MIF,Macrophage,Activate
+Monocyte,T_NKT,Activate
+Neuropeptides,Mast,Activate
+Nucleotides,T_gd,Activate
+OPGL,BM Stromal,Activate
+OPGL,Osteoclast,Activate
+Ornithine,Smooth muscle,Activate
+Pathogen,DC,Activate
+Pathogen,Macrophage,Activate
+pDC,DC,Activate
+Phospholipids,T_gd,Activate
+Platelet-Activating Factor,Neutrophil,Activate
+Platelet-Activating Factor,Eosinophil,Activate
+Platelet-Activating Factor,Platelet,Activate
+Platelet-Activating Factor,Neutrophil,Activate
+Platelet-Activating Factor,Eosinophil,Activate
+Platelet-Activating Factor,Platelet,Activate
+Profilin,Macrophage,Activate
+Profilin,DC,Activate
+Profilin,Epithelial,Activate
+Profilin,Hepatocyte,Activate
+Profilin,DC,Activate
+Profilin,Macrophage,Activate
+Profilin,Macrophage,Activate
+Profilin,DC,Activate
+Profilin,Epithelial,Activate
+Profilin,Hepatocyte,Activate
+Prostaglandins,Smooth muscle,Activate
+Prostaglandins,Endothelial_vascular,Activate
+RNA,B,Activate
+Serum Amyloid A,DC,Activate
+ssRNA,Macrophage,Activate
+ssRNA,DC,Activate
+ssRNA,pDC,Activate
+ssRNA,Macrophage,Activate
+ssRNA,Eosinophil,Activate
+ssRNA,B,Activate
+ssRNA,pDC,Activate
+ssRNA,B,Activate
+ssRNA,Eosinophil,Activate
+ssRNA,Macrophage,Activate
+ssRNA,Neutrophil,Activate
+ssRNA,Monocyte,Activate
+ssRNA,Macrophage,Activate
+Stem Cell Factor,Mast,Activate
+T,B,Activate
+T,Macrophage,Activate
+T,Macrophage,Activate
+T,B,Activate
+T,DC,Activate
+T,Macrophage,Activate
+T,B,Activate
+T,DC,Activate
+T_CD4,DC,Activate
+T_CD4,T_CD8,Activate
+T_CD4 (effector),Macrophage,Activate
+T_CD4 (effector),B,Activate
+T_CD4 (effector),APC,Activate
+T_CD4 (effector),DC,Activate
+T_CD4 (effector),DC,Activate
+T_CD4 (effector),T_CD8,Activate
+T_CD4 (effector),Macrophage,Activate
+T_CD8,DC,Activate
+T_CD8,DC,Activate
+Tfh,B,Activate
+Tfh,B_naive,Activate
+Tfh,B,Activate
+Tfh,B,Activate
+Tfh,B_Plasma,Activate
+Tfh,B,Activate
+Tfh,B,Activate
+Tfh,B,Activate
+Tfh,B_memory,Activate
+Tfh,B_memory,Activate
+TGFa,Eosinophil,Activate
+TGFb,Neutrophil,Activate
+TGFb,Eosinophil,Activate
+TGFb,T_CD8_TissueResidentMemory,Activate
+TGFb,T_reg,Activate
+Th1,Macrophage,Activate
+Th1,Macrophage,Activate
+Th1,Macrophage,Activate
+Th1,Macrophage,Activate
+Th1,Macrophage,Activate
+Th1,Macrophage,Activate
+Th1,Macrophage,Activate
+Th17,Epithelial_barrier,Activate
+Th17,B,Activate
+Th2,B,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial,Activate
+TNFa,Macrophage,Activate
+TNFa,Macrophage,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial_vascular,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial,Activate
+TNFa,DC,Activate
+TNFa,DC,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial,Activate
+TNFa,Macrophage,Activate
+TNFa,Endothelial_vascular,Activate
+TNFa,Macrophage,Activate
+TNFa,Hepatocyte,Activate
+TNFa,Hepatocyte,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial_vascular,Activate
+TNFa,Macrophage,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial,Activate
+TNFa,Endothelial_vascular,Activate
+TNFa,Macrophage,Activate
+TNFa,Macrophage,Activate
+TNFa,Fibroblast,Activate
+TSLP,ILC2,Activate
+TSLP,DC,Activate
+TSLP,ILC2,Activate
+TSLP,ILC2,Activate
+TSLP,Th2,Activate
+TSLP,ILC2,Activate
+TSLP,Th2,Activate
+TSLP,ILC2,Activate
+Tumor,NK,Activate
+TWEAK,Endothelial,Activate
+Unknown,pDC,Activate
+Unknown,Eosinophil,Activate
+Unknown,B,Activate
+Unknown,Basophil,Activate
+Unmethylated CpG DNA,pDC,Activate
+Unmethylated CpG DNA,Eosinophil,Activate
+Unmethylated CpG DNA,B,Activate
+Unmethylated CpG DNA,Basophil,Activate
+Unmethylated CpG DNA,pDC,Activate
+Unmethylated CpG DNA,B,Activate
+Unmethylated CpG DNA,Eosinophil,Activate
+Unmethylated CpG DNA,pDC,Activate
+Unmethylated CpG DNA,pDC,Activate
+Unmethylated CpG DNA,B,Activate
+Unmethylated CpG DNA,DC,Activate
+Unmethylated CpG DNA,T_reg,Activate
+Zymosan,Basophil,Activate
+Zymosan,DC,Activate
+Zymosan,Eosinophil,Activate
+Zymosan,Mast,Activate
+Zymosan,Monocyte,Activate
+IL11,Hematopoietic,Activate
+B,B_Plasma,Differentiate
+B,B_memory,Differentiate
+B,B_Plasma,Differentiate
+B,B_Plasmablast,Differentiate
+B,B_Plasma,Differentiate
+B,B_memory,Differentiate
+B,B_Plasma,Differentiate
+B,B_memory,Differentiate
+B,B_Plasma,Differentiate
+B,B_memory,Differentiate
+B,B_memory,Differentiate
+B,B_Plasma,Differentiate
+B,B_Plasma,Differentiate
+B,B_memory,Differentiate
+B,B_Plasmablast,Differentiate
+B,B_memory,Differentiate
+B,B_Plasma,Differentiate
+B,B_Plasma,Differentiate
+B,B_Plasma,Differentiate
+B,B_Plasma,Differentiate
+B_lymphoblast,B_Plasma,Differentiate
+B_memory,B_Plasma,Differentiate
+B_Plasma,B_memory,Differentiate
+Common Lymphoid Progenitor,T Progenitor,Differentiate
+Common Lymphoid Progenitor,B,Differentiate
+Common Lymphoid Progenitor,NK,Differentiate
+Common Lymphoid Progenitor,ILC,Differentiate
+Common Lymphoid Progenitor,DC,Differentiate
+Common Lymphoid Progenitor,ILC,Differentiate
+Common Lymphoid Progenitor,NK,Differentiate
+Common Lymphoid Progenitor,T Progenitor,Differentiate
+Common Lymphoid Progenitor,B,Differentiate
+Common Myeloid Progenitor,DC,Differentiate
+Common Myeloid Progenitor,Granulocyte Progenitor,Differentiate
+Common Myeloid Progenitor,Megakaryocyte,Differentiate
+Common Myeloid Progenitor,Monocyte,Differentiate
+Common Myeloid Progenitor,Neutrophil,Differentiate
+Common Myeloid Progenitor,Basophil,Differentiate
+Common Myeloid Progenitor,Eosinophil,Differentiate
+Common Myeloid Progenitor,Macrophage,Differentiate
+Common Myeloid Progenitor,DC,Differentiate
+Erythroblast,Erythrocyte,Differentiate
+Granulocyte Progenitor,Neutrophil,Differentiate
+Granulocyte Progenitor,Eosinophil,Differentiate
+Granulocyte Progenitor,Basophil,Differentiate
+Granulocyte Progenitor,Mast,Differentiate
+Granulocyte Progenitor,Monocyte,Differentiate
+Hematopoietic,Common Lymphoid Progenitor,Differentiate
+Hematopoietic,Common Myeloid Progenitor,Differentiate
+Hematopoietic,Erythroblast,Differentiate
+Hematopoietic,Common Myeloid Progenitor,Differentiate
+Hematopoietic,Common Lymphoid Progenitor,Differentiate
+Hematopoietic,ILC,Differentiate
+ILC,ILC1,Differentiate
+ILC,ILC1,Differentiate
+ILC,ILC2,Differentiate
+ILC,ILC3,Differentiate
+Megakaryocyte,Platelet,Differentiate
+Monocyte,Macrophage,Differentiate
+Monocyte,Macrophage,Differentiate
+Monocyte,Macrophage,Differentiate
+Monocyte,DC (monocyte-derived),Differentiate
+Monocyte,DC (monocyte-derived),Differentiate
+T (Effector Memory),T (effector),Differentiate
+T (Effector Memory),T (effector),Differentiate
+T Progenitor,T_CD8,Differentiate
+T Progenitor,T_CD4,Differentiate
+T Progenitor,T_NKT,Differentiate
+T Progenitor,T_gd,Differentiate
+T Progenitor,T_abCD4CD8,Differentiate
+T_abCD4CD8,T_CD4,Differentiate
+T_abCD4CD8,T_CD8,Differentiate
+T_abCD4CD8,T_reg_n,Differentiate
+T_abCD4CD8,T_NKT,Differentiate
+T_abCD4CD8,T_CD4,Differentiate
+T_abCD4CD8,T_CD8,Differentiate
+T_abCD4CD8,T_reg_n,Differentiate
+T_abCD4CD8,T_NKT,Differentiate
+T_CD4,Th1,Differentiate
+T_CD4,Th17,Differentiate
+T_CD4,Tfh,Differentiate
+T_CD4,Th2,Differentiate
+T_CD4,Th1,Differentiate
+T_CD4,Th2,Differentiate
+T_CD4,Th17,Differentiate
+T_CD4,Tfh,Differentiate
+T_CD4,T_reg_i,Differentiate
+T_CD4,T_reg_i,Differentiate
+T_CD4,Th1,Differentiate
+T_CD4,Th2,Differentiate
+T_CD4,Th17,Differentiate
+T_CD4,Tfh,Differentiate
+T_CD4,T_reg_i,Differentiate
+T_CD4,Tfh,Differentiate
+T_CD4,T_reg,Differentiate
+T_CD4,Th17,Differentiate
+T_CD4,T_CD4_memory,Differentiate
+T_CD4,Th2,Differentiate
+T_CD4,Th2,Differentiate
+T_CD4,T_reg_i,Differentiate
+T_CD4,T_reg_i,Differentiate
+T_CD4,Th1,Differentiate
+T_CD4,Th2,Differentiate
+T_CD4,Th17,Differentiate
+T_CD4,T_reg_i,Differentiate
+T_CD4 (effector),T_CD4_memory,Differentiate
+T_CD4_memory,T_CD4_CentralMemory,Differentiate
+T_CD4_memory,T_CD4_EffectorMemory,Differentiate
+T_CD4_memory,T_CD4_TissueResidentMemory,Differentiate
+T_CD4_memory,T_CD4_CentralMemory,Differentiate
+T_CD4_memory,T_CD4_EffectorMemory,Differentiate
+T_CD8,T_Cytotoxic,Differentiate
+T_CD8,T_Cytotoxic,Differentiate
+T_CD8,T_Cytotoxic,Differentiate
+T_CD8,T_Cytotoxic,Differentiate
+T_CD8,T_Cytotoxic,Differentiate
+T_CD8,T_Cytotoxic,Differentiate
+T_CD8,T_CD8_memory,Differentiate
+T_CD8_memory,T_CD8_CentralMemory,Differentiate
+T_CD8_memory,T_CD8_EffectorMemory,Differentiate
+T_CD8_memory,T_CD8_TissueResidentMemory,Differentiate
+T_CD8_memory,T_CD8_CentralMemory,Differentiate
+T_CD8_memory,T_CD8_EffectorMemory,Differentiate
+T_Cytotoxic,T_CD8_memory,Differentiate
+T_reg_i,Th17,Differentiate
+T_reg_i,Th1,Differentiate
+Th17,Th1,Differentiate
+Th17,Th1,Differentiate
+Th17,Th1,Differentiate
+APC,T,Inhibit
+APC,B,Inhibit
+APC,Myeloid,Inhibit
+B_Plasma,Tfh,Inhibit
+DC,T,Inhibit
+DC,T_CD4,Inhibit
+DC,T,Inhibit
+IDO,T_Cytotoxic,Inhibit
+IFNg,Th2,Inhibit
+IFNg,Th2,Inhibit
+IFNg,Th2,Inhibit
+IgA,Virus,Inhibit
+IgA,Bacteria,Inhibit
+IgA,Microbial products,Inhibit
+IgG,B,Inhibit
+IgG,B_naive,Inhibit
+IgG,Virus,Inhibit
+IgG1,B,Inhibit
+IgG1,Mast,Inhibit
+IgG1,Macrophage,Inhibit
+IgG1,Neutrophil,Inhibit
+IgG1,Eosinophil,Inhibit
+IL1,T_reg,Inhibit
+IL10,Macrophage,Inhibit
+IL10,DC,Inhibit
+IL10,Macrophage,Inhibit
+IL10,DC,Inhibit
+IL10,Macrophage,Inhibit
+IL10,Macrophage,Inhibit
+IL10,T_CD4,Inhibit
+IL10,T,Inhibit
+IL10,DC,Inhibit
+IL10,T,Inhibit
+IL13,Macrophage,Inhibit
+IL27,T_CD4,Inhibit
+IL35,T_CD4,Inhibit
+IL37,DC,Inhibit
+IL37,Monocyte,Inhibit
+IL6,T_reg,Inhibit
+LTa,B,Inhibit
+Sialic acid-modified glycoproteins,B,Inhibit
+Stromal,NK,Inhibit
+T_reg,Mast,Inhibit
+T_reg_n,DC,Inhibit
+TGFb,Th1,Inhibit
+TGFb,Th2,Inhibit
+TGFb,T_CD4,Inhibit
+TGFb,Macrophage,Inhibit
+TGFb,T,Inhibit
+TGFb,Th1,Inhibit
+TGFb,Th1,Inhibit
+TGFb,Th2,Inhibit
+Tumor,T,Inhibit
+Tumor,T,Inhibit
+Vitamin D3,DC,Inhibit
+Vitamin D3,T_CD4 (effector),Inhibit
+Anthrax lethal factor,Macrophage,Kill
+IEL_CD8,Epithelial_intestine,Kill
+IEL_CD8,Epithelial_intestine,Kill
+IEL_CD8_a,Epithelial_Mucosa,Kill
+Kynurenine,Th1,Kill
+LTa,T,Kill
+LTa,Fibroblast,Kill
+T_Cytotoxic,Epithelial_intestine,Kill
+T_Cytotoxic,Fibroblast,Kill
+T_Cytotoxic,Stromal,Kill
+T_Cytotoxic,Stromal,Kill
+T_Cytotoxic,Tumor,Kill
+T_gd,Epithelial_intestine,Kill
+T_gd,Fibroblast,Kill
+Th1,Epithelial_Mucosa,Kill
+Th1,Macrophage,Kill
+Th1,Macrophage,Kill
+Th1,Macrophage,Kill
+Th1,Macrophage,Kill
+Th1,Macrophage,Kill
+Trail,T,Kill
+APRIL,B,Polarize
+Bacterial polysaccharide,T_CD4,Polarize
+Bacterial polysaccharide,T_CD4,Polarize
+BAFF,B,Polarize
+Basophil,B,Polarize
+BM Stromal,Hematopoietic,Polarize
+BM Stromal,Hematopoietic,Polarize
+CD40L,B,Polarize
+DC,T_CD4,Polarize
+DC,T_CD4,Polarize
+DC,T_CD4,Polarize
+GCSF,Hematopoietic,Polarize
+GCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,B,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Hematopoietic,Polarize
+GMCSF,Monocyte,Polarize
+GMCSF,Monocyte,Polarize
+IFNa,T_CD4,Polarize
+IFNb,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,B,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,B,Polarize
+IFNg,B,Polarize
+IFNg,T_CD4,Polarize
+IFNg,B,Polarize
+IFNg,B,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD8,Polarize
+IFNg,T_CD4,Polarize
+IFNg,T_CD4,Polarize
+IFNg,B,Polarize
+IFNg,T_CD4,Polarize
+IL1,T_CD4,Polarize
+IL1,T_reg_i,Polarize
+IL1,T_CD4,Polarize
+IL10,T,Polarize
+IL10,T_CD4,Polarize
+IL10,B,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL12,Th17,Polarize
+IL12,T_reg_i,Polarize
+IL12,Th17,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL12,T_CD4,Polarize
+IL13,B,Polarize
+IL13,B,Polarize
+IL13,B,Polarize
+IL13,T_CD4,Polarize
+IL13,Epithelial_airway,Polarize
+IL13,T_CD4,Polarize
+IL17,B,Polarize
+IL18,T_CD4,Polarize
+IL1b,Hematopoietic,Polarize
+IL2,T,Polarize
+IL2,T,Polarize
+IL2,T (effector),Polarize
+IL2,T_CD8,Polarize
+IL2,T_CD4,Polarize
+IL2,T_CD8,Polarize
+IL2,T_CD8,Polarize
+IL2,T_CD8,Polarize
+IL2,T_CD4,Polarize
+IL2,T,Polarize
+IL2,T_CD8,Polarize
+IL2,T_CD4,Polarize
+IL21,B,Polarize
+IL21,B,Polarize
+IL23,T_CD4,Polarize
+IL23,T_CD4,Polarize
+IL23,T_CD4,Polarize
+IL23,Th17,Polarize
+IL23,T_CD4,Polarize
+IL23,T_CD4,Polarize
+IL27,T_CD4,Polarize
+IL3,Hematopoietic,Polarize
+IL3,Hematopoietic,Polarize
+IL3,Hematopoietic,Polarize
+IL3,Hematopoietic,Polarize
+IL3,Hematopoietic,Polarize
+IL3,Hematopoietic,Polarize
+IL3,Hematopoietic,Polarize
+IL4,B,Polarize
+IL4,T_CD4,Polarize
+IL4,B,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,B,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,B,Polarize
+IL4,B,Polarize
+IL4,B,Polarize
+IL4,T_CD4,Polarize
+IL4,B,Polarize
+IL4,B,Polarize
+IL4,B,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL4,T_CD4,Polarize
+IL5,Hematopoietic,Polarize
+IL5,Hematopoietic,Polarize
+IL5,Hematopoietic,Polarize
+IL5,Hematopoietic,Polarize
+IL5,Eosinophil,Polarize
+IL5,B,Polarize
+IL5,T_CD4,Polarize
+IL6,B,Polarize
+IL6,B,Polarize
+IL6,T_CD4,Polarize
+IL6,T_CD4,Polarize
+IL6,T_CD4,Polarize
+IL6,T_CD4,Polarize
+IL6,T_reg_i,Polarize
+IL6,T_CD4,Polarize
+IL6,Hematopoietic,Polarize
+IL6,T_CD4,Polarize
+IL6,T_CD4,Polarize
+IL6,T_CD4,Polarize
+IL6,T_CD4,Polarize
+IL7,Common Lymphoid Progenitor,Polarize
+IL7,Common Lymphoid Progenitor,Polarize
+IL9,T_CD4,Polarize
+IL9,Epithelial_airway,Polarize
+Mast,B,Polarize
+NO,B,Polarize
+Retinoic acid,B,Polarize
+Retinoic acid,T_CD4,Polarize
+Retinoic acid,T_CD4,Polarize
+Retinoic acid,T_CD4,Polarize
+Stem Cell Factor,Hematopoietic,Polarize
+Tfh,B,Polarize
+Tfh,B,Polarize
+Tfh,B,Polarize
+Tfh,B,Polarize
+TGFb,Hematopoietic,Polarize
+TGFb,B,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T,Polarize
+TGFb,B,Polarize
+TGFb,T_CD4,Polarize
+TGFb,B,Polarize
+TGFb,T_CD4,Polarize
+TGFb,B,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb,T_CD4,Polarize
+TGFb1,B,Polarize
+TGFb1,T,Polarize
+TGFb1,T_CD4,Polarize
+Th1,Macrophage,Polarize
+Th2,B,Polarize
+Th2,Macrophage,Polarize
+Th2,B,Polarize
+TNFa,B,Polarize
+TNFa,Hematopoietic,Polarize
+TSLP,DC,Polarize
+TSLP,Hematopoietic,Polarize
+MCSF,Hematopoietic,Polarize
+IL20,T_CD4,Polarize
+C3a,Neutrophil,Recruit
+C3a,Macrophage,Recruit
+C3a,Neutrophil,Recruit
+C5a,Neutrophil,Recruit
+C5a,Macrophage,Recruit
+C5a,Neutrophil,Recruit
+C5a,Monocyte,Recruit
+C5a,Neutrophil,Recruit
+CCL1,Neutrophil,Recruit
+CCL1,Th2,Recruit
+CCL1,Monocyte,Recruit
+CCL1,Neutrophil,Recruit
+CCL1,Macrophage,Recruit
+CCL11,Th2,Recruit
+CCL11,Macrophage,Recruit
+CCL11,Eosinophil,Recruit
+CCL11,Basophil,Recruit
+CCL11,Basophil,Recruit
+CCL11,Th2,Recruit
+CCL11,Eosinophil,Recruit
+CCL11,Eosinophil,Recruit
+CCL11,Basophil,Recruit
+CCL11,Mast,Recruit
+CCL11,Th2,Recruit
+CCL12,Eosinophil,Recruit
+CCL12,Monocyte,Recruit
+CCL12,T,Recruit
+CCL12,B,Recruit
+CCL13,Th2,Recruit
+CCL13,Monocyte,Recruit
+CCL13,Eosinophil,Recruit
+CCL13,Basophil,Recruit
+CCL13,DC,Recruit
+CCL13,Eosinophil,Recruit
+CCL14a,Monocyte,Recruit
+CCL14b,Monocyte,Recruit
+CCL15,T,Recruit
+CCL15,Monocyte,Recruit
+CCL15,Eosinophil,Recruit
+CCL15,DC,Recruit
+CCL16,Monocyte,Recruit
+CCL16,T,Recruit
+CCL16,NK,Recruit
+CCL16,DC,Recruit
+CCL17,T (effector),Recruit
+CCL17,T (effector),Recruit
+CCL17,Th2,Recruit
+CCL17,DC,Recruit
+CCL17,T_reg,Recruit
+CCL18,T (naive),Recruit
+CCL18,DC,Recruit
+CCL18,B_marginalzone,Recruit
+CCL19,DC,Recruit
+CCL19,T,Recruit
+CCL19,T_CD4,Recruit
+CCL19,T_CD8,Recruit
+CCL19,T_CD4,Recruit
+CCL19,T_CD8,Recruit
+CCL19,T_CD4,Recruit
+CCL19,T_CD8,Recruit
+CCL19,B_naive,Recruit
+CCL19,T (naive),Recruit
+CCL19,DC,Recruit
+CCL19,B,Recruit
+CCL19,T_CD4,Recruit
+CCL19,T_CD8,Recruit
+CCL19,DC,Recruit
+CCL19,T,Recruit
+CCL19,T,Recruit
+CCL19,B,Recruit
+CCL19,T,Recruit
+CCL2,Th2,Recruit
+CCL2,Monocyte,Recruit
+CCL2,Basophil,Recruit
+CCL2,DC,Recruit
+CCL2,NK,Recruit
+CCL2,Monocyte,Recruit
+CCL2,NK,Recruit
+CCL2,T,Recruit
+CCL2,Basophil,Recruit
+CCL2,DC,Recruit
+CCL2,Monocyte,Recruit
+CCL2,Monocyte,Recruit
+CCL2,Monocyte,Recruit
+CCL2,Neutrophil,Recruit
+CCL2,Macrophage,Recruit
+CCL2,Monocyte,Recruit
+CCL2,Monocyte,Recruit
+CCL2,Monocyte,Recruit
+CCL2,Eosinophil,Recruit
+CCL2,T,Recruit
+CCL2,Monocyte,Recruit
+CCL20,B_Plasma,Recruit
+CCL20,DC,Recruit
+CCL20,Th17,Recruit
+CCL20,Th17,Recruit
+CCL20,DC,Recruit
+CCL20,T (memory),Recruit
+CCL20,Th17,Recruit
+CCL20,Macrophage,Recruit
+CCL20,Monocyte,Recruit
+CCL20,DC,Recruit
+CCL20,T_NKT,Recruit
+CCL20,B,Recruit
+CCL20,DC,Recruit
+CCL20,DC,Recruit
+CCL20,DC,Recruit
+CCL21,T_CD4,Recruit
+CCL21,T_CD8,Recruit
+CCL21,DC,Recruit
+CCL21,T (naive),Recruit
+CCL21,B,Recruit
+CCL21,T,Recruit
+CCL21,T_CD4,Recruit
+CCL21,T_CD8,Recruit
+CCL21,DC,Recruit
+CCL21,DC,Recruit
+CCL21,T_CD8,Recruit
+CCL21,T_CD4,Recruit
+CCL21,T_CD4,Recruit
+CCL21,T_CD8,Recruit
+CCL21,B_naive,Recruit
+CCL21,B,Recruit
+CCL21,NK,Recruit
+CCL21,DC,Recruit
+CCL21,T (naive),Recruit
+CCL21,T,Recruit
+CCL21,DC,Recruit
+CCL21,T,Recruit
+CCL21,DC,Recruit
+CCL21,T,Recruit
+CCL21,B,Recruit
+CCL21,DC,Recruit
+CCL22,DC,Recruit
+CCL22,NK,Recruit
+CCL22,Th2,Recruit
+CCL22,Endothelial,Recruit
+CCL22,Monocyte,Recruit
+CCL22,T_reg,Recruit
+CCL23,Monocyte,Recruit
+CCL23,T,Recruit
+CCL23,Neutrophil,Recruit
+CCL24,Basophil,Recruit
+CCL24,Th2,Recruit
+CCL24,Eosinophil,Recruit
+CCL24,Basophil,Recruit
+CCL24,T,Recruit
+CCL24,Eosinophil,Recruit
+CCL25,B,Recruit
+CCL25,T (memory),Recruit
+CCL25,T (effector),Recruit
+CCL25,T (effector),Recruit
+CCL25,Lymphocyte,Recruit
+CCL25,Macrophage,Recruit
+CCL25,DC,Recruit
+CCL25,IEL,Recruit
+CCL25,B_Plasma_IgA+,Recruit
+CCL26,Basophil,Recruit
+CCL26,Th2,Recruit
+CCL26,Eosinophil,Recruit
+CCL26,Basophil,Recruit
+CCL26,Fibroblast,Recruit
+CCL26,Eosinophil,Recruit
+CCL27,T (effector),Recruit
+CCL27,T (memory),Recruit
+CCL27,T (effector),Recruit
+CCL27,B,Recruit
+CCL28,Lymphocyte,Recruit
+CCL28,T,Recruit
+CCL28,Eosinophil,Recruit
+CCL28,B_IgA+,Recruit
+CCL28,B_lymphoblast,Recruit
+CCL3,Monocyte,Recruit
+CCL3,NK,Recruit
+CCL3,T,Recruit
+CCL3,Basophil,Recruit
+CCL3,DC,Recruit
+CCL3,Monocyte,Recruit
+CCL3,Macrophage,Recruit
+CCL3,Th1,Recruit
+CCL3,NK,Recruit
+CCL3,Basophil,Recruit
+CCL3,DC,Recruit
+CCL3,Eosinophil,Recruit
+CCL3,Neutrophil,Recruit
+CCL3,Fibroblast,Recruit
+CCL3,Osteoclast,Recruit
+CCL3,Macrophage,Recruit
+CCL3,Monocyte,Recruit
+CCL3,Eosinophil,Recruit
+CCL3,T,Recruit
+CCL3,Monocyte,Recruit
+CCL3,Macrophage,Recruit
+CCL3,Neutrophil,Recruit
+CCL4,Monocyte,Recruit
+CCL4,NK,Recruit
+CCL4,T,Recruit
+CCL4,DC,Recruit
+CCL4,Monocyte,Recruit
+CCL4,Macrophage,Recruit
+CCL4,Th1,Recruit
+CCL4,NK,Recruit
+CCL4,Basophil,Recruit
+CCL4,DC,Recruit
+CCL4,Eosinophil,Recruit
+CCL4,B,Recruit
+CCL4,Macrophage,Recruit
+CCL4,Monocyte,Recruit
+CCL4,Eosinophil,Recruit
+CCL4,T,Recruit
+CCL5,Monocyte,Recruit
+CCL5,T,Recruit
+CCL5,NK,Recruit
+CCL5,Basophil,Recruit
+CCL5,Eosinophil,Recruit
+CCL5,DC,Recruit
+CCL5,Monocyte,Recruit
+CCL5,Macrophage,Recruit
+CCL5,T (memory),Recruit
+CCL5,Th1,Recruit
+CCL5,NK,Recruit
+CCL5,Basophil,Recruit
+CCL5,Eosinophil,Recruit
+CCL5,DC,Recruit
+CCL5,Th2,Recruit
+CCL5,Macrophage,Recruit
+CCL5,Eosinophil,Recruit
+CCL5,Basophil,Recruit
+CCL5,Eosinophil,Recruit
+CCL5,Macrophage,Recruit
+CCL5,Monocyte,Recruit
+CCL5,Eosinophil,Recruit
+CCL5,T,Recruit
+CCL6,Monocyte,Recruit
+CCL6,B,Recruit
+CCL6,T_CD4,Recruit
+CCL6,NK,Recruit
+CCL7,Th2,Recruit
+CCL7,Monocyte,Recruit
+CCL7,Eosinophil,Recruit
+CCL7,Basophil,Recruit
+CCL7,DC,Recruit
+CCL7,NK,Recruit
+CCL7,Eosinophil,Recruit
+CCL8,Th2,Recruit
+CCL8,Monocyte,Recruit
+CCL8,Eosinophil,Recruit
+CCL8,Basophil,Recruit
+CCL8,DC,Recruit
+CCL8,NK,Recruit
+CCL9,DC,Recruit
+CCL9,T,Recruit
+CCL9,Monocyte,Recruit
+CCL9,Adipocyte,Recruit
+CX3CL1,Monocyte,Recruit
+CX3CL1,T,Recruit
+CX3CL1,T,Recruit
+CX3CL1,Monocyte,Recruit
+CX3CL1,Neutrophil,Recruit
+CX3CL1,NK,Recruit
+CX3CL1,DC,Recruit
+CX3CL1,Mast,Recruit
+CX3CL1,Microglia,Recruit
+CXCL1,Neutrophil,Recruit
+CXCL1,Fibroblast,Recruit
+CXCL1,T,Recruit
+CXCL1,NK,Recruit
+CXCL1,DC (CD8a+),Recruit
+CXCL1,Neutrophil,Recruit
+CXCL1,Macrophage,Recruit
+CXCL10,pDC,Recruit
+CXCL10,Th1,Recruit
+CXCL10,NK,Recruit
+CXCL10,B,Recruit
+CXCL10,Endothelial,Recruit
+CXCL10,Monocyte,Recruit
+CXCL11,pDC,Recruit
+CXCL11,B,Recruit
+CXCL11,Endothelial,Recruit
+CXCL11,NK,Recruit
+CXCL11,Th1,Recruit
+CXCL11,Monocyte,Recruit
+CXCL12,B_germinalcenter,Recruit
+CXCL12,B,Recruit
+CXCL12,B_Plasma,Recruit
+CXCL12,DC,Recruit
+CXCL12,Hematopoietic,Recruit
+CXCL12,Macrophage,Recruit
+CXCL12,Monocyte,Recruit
+CXCL12,Neutrophil,Recruit
+CXCL12,pDC,Recruit
+CXCL12,T (naive),Recruit
+CXCL12,Hematopoietic,Recruit
+CXCL12,Common Lymphoid Progenitor,Recruit
+CXCL12,Common Lymphoid Progenitor,Recruit
+CXCL13,B,Recruit
+CXCL13,Tfh,Recruit
+CXCL13,B,Recruit
+CXCL13,B,Recruit
+CXCL13,B_naive,Recruit
+CXCL13,B_naive,Recruit
+CXCL13,T_CD4,Recruit
+CXCL13,DC,Recruit
+CXCL13,B,Recruit
+CXCL13,Tfh,Recruit
+CXCL13,Tfh,Recruit
+CXCL13,B,Recruit
+CXCL14,T,Recruit
+CXCL14,B,Recruit
+CXCL14,Monocyte,Recruit
+CXCL15,Neutrophil,Recruit
+CXCL15,Epithelial,Recruit
+CXCL15,Endothelial,Recruit
+CXCL16,T,Recruit
+CXCL16,T_NKT,Recruit
+CXCL16,Endothelial,Recruit
+CXCL2,Neutrophil,Recruit
+CXCL2,Fibroblast,Recruit
+CXCL2,Neutrophil,Recruit
+CXCL2,T,Recruit
+CXCL2,NK,Recruit
+CXCL2,DC (CD8a+),Recruit
+CXCL3,Neutrophil,Recruit
+CXCL3,Fibroblast,Recruit
+CXCL4,Fibroblast,Recruit
+CXCL4,Endothelial,Recruit
+CXCL5,Neutrophil,Recruit
+CXCL5,Endothelial,Recruit
+CXCL6,Endothelial,Recruit
+CXCL6,Neutrophil,Recruit
+CXCL7,Endothelial,Recruit
+CXCL7,Fibroblast,Recruit
+CXCL7,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Basophil,Recruit
+CXCL8,Endothelial,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,T (naive),Recruit
+CXCL8,T_CD8,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Macrophage,Recruit
+IL18,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Neutrophil,Recruit
+CXCL8,Monocyte,Recruit
+CXCL9,pDC,Recruit
+CXCL9,Th1,Recruit
+CXCL9,NK,Recruit
+CXCL9,T_Cytotoxic,Recruit
+CXCL9,Th1,Recruit
+CXCL9,NK,Recruit
+CXCL9,B,Recruit
+CXCL9,Endothelial,Recruit
+CXCL9,pDC,Recruit
+CXCL9,Monocyte,Recruit
+Cytokines,Myeloid,Recruit
+Cytokines,Myeloid,Recruit
+FDC,B,Recruit
+fMLF,Neutrophil,Recruit
+GMCSF,Monocyte,Recruit
+IFNg,Macrophage,Recruit
+IL1,Neutrophil,Recruit
+IL1,Monocyte,Recruit
+IL13,M2,Recruit
+IL16,T_CD4,Recruit
+IL16,Monocyte,Recruit
+IL16,Eosinophil,Recruit
+IL16,T_CD4,Recruit
+IL16,Monocyte,Recruit
+IL16,Eosinophil,Recruit
+IL17,Neutrophil,Recruit
+IL17,Neutrophil,Recruit
+IL3,Mast,Recruit
+IL3,Mast,Recruit
+IL4,M2,Recruit
+IL5,Eosinophil,Recruit
+IL5,Eosinophil,Recruit
+IL6,Monocyte,Recruit
+IL9,Mast,Recruit
+IL9,Mast,Recruit
+Leukotriene C4,Th2,Recruit
+Leukotriene C4,Eosinophil,Recruit
+Leukotriene C4,Basophil,Recruit
+Leukotriene D4,Th2,Recruit
+Leukotriene D4,Eosinophil,Recruit
+Leukotriene D4,Basophil,Recruit
+Leukotriene E4,Th2,Recruit
+Leukotriene E4,Eosinophil,Recruit
+Leukotriene E4,Basophil,Recruit
+LTa,Monocyte,Recruit
+Prostaglandin D2,Th2,Recruit
+Prostaglandin D2,Eosinophil,Recruit
+Prostaglandin D2,Basophil,Recruit
+Prostaglandin D2,Th2,Recruit
+Prostaglandin D2,Eosinophil,Recruit
+Prostaglandin D2,Basophil,Recruit
+Prostaglandin D2,Eosinophil,Recruit
+Prostaglandin D2,Basophil,Recruit
+Prostaglandin D2,Th2,Recruit
+Prostaglandin E2,Eosinophil,Recruit
+Prostaglandin E2,Basophil,Recruit
+Prostaglandin E2,Th2,Recruit
+S1P,T_CD4,Recruit
+S1P,T_CD8,Recruit
+S1P,T_Cytotoxic ,Recruit
+S1P,T_CD4,Recruit
+S1P,T_CD8,Recruit
+TNFa,Monocyte,Recruit
+TNFa,Monocyte,Recruit
+Unknown,B_lymphoblast,Recruit
+Unknown,T (naive),Recruit
+Unknown,T (naive),Recruit
+Unknown,B_lymphoblast,Recruit
+Unknown,T_reg_i,Recruit
+Unknown,T (effector),Recruit
+Unknown,T (effector),Recruit
+B,Antibody,Secrete
+B,IgG1,Secrete
+B,IgG3,Secrete
+B,IgM,Secrete
+B,IgM,Secrete
+B,IgE,Secrete
+B,IgA,Secrete
+B,IgG,Secrete
+B,IgA,Secrete
+B,IgE,Secrete
+B,IgM,Secrete
+B,IgG,Secrete
+B,IgM,Secrete
+B,Lymphotoxin,Secrete
+B,Antibody,Secrete
+B,IgE,Secrete
+B,IgE,Secrete
+B,Antibody,Secrete
+B,Antibody,Secrete
+B,IL6,Secrete
+B,IL10,Secrete
+B,IL35,Secrete
+B,BAFF,Secrete
+B,LTa,Secrete
+B,LTb,Secrete
+B,IgM,Secrete
+B,IgG1,Secrete
+B_lymphoblast,IgA,Secrete
+B_marginalzone,IgM,Secrete
+B_memory,IgG,Secrete
+B_memory,IgA,Secrete
+B_memory,IgG,Secrete
+B_memory,IgA,Secrete
+B_memory,IgE,Secrete
+B_Plasma,IgG,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgA1,Secrete
+B_Plasma,IgA2,Secrete
+B_Plasma,IgA1,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgM,Secrete
+B_Plasma,IgM,Secrete
+B_Plasma,IgG,Secrete
+B_Plasma,IgG,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgE,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgG,Secrete
+B_Plasma,IgE,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgA,Secrete
+B_Plasma,IgE,Secrete
+B_Plasma,IgA1,Secrete
+B_Plasma,IgA2,Secrete
+B_Plasmablast,IgM,Secrete
+B_Plasmablast,IgM,Secrete
+B1,IgA,Secrete
+B1,IgM,Secrete
+Basophil,IL4,Secrete
+Basophil,IL4,Secrete
+Basophil,IL4,Secrete
+Basophil,IL4,Secrete
+Basophil,IL4,Secrete
+Basophil,Histamine,Secrete
+Basophil,IL4,Secrete
+Basophil,IL13,Secrete
+Basophil,Leukotrienes,Secrete
+Basophil,Histamine,Secrete
+BM Stromal,IL7,Secrete
+BM Stromal,IL7,Secrete
+BM Stromal,CXCL12,Secrete
+BM Stromal,MCSF,Secrete
+BM Stromal,LIF,Secrete
+BM Stromal,OPGL,Secrete
+DC,IL10,Secrete
+DC,CXCL13,Secrete
+DC,IL6,Secrete
+DC,TNFa,Secrete
+DC,IL1b,Secrete
+DC,CXCL8,Secrete
+DC,IL12,Secrete
+DC,IL12,Secrete
+DC,IL18,Secrete
+DC,IL12,Secrete
+DC,CCL19,Secrete
+DC,IL12,Secrete
+DC,IL12,Secrete
+DC,TGFb,Secrete
+DC,IL6,Secrete
+DC,IL12,Secrete
+DC,IL23,Secrete
+DC,IL4,Secrete
+DC,TGFb,Secrete
+DC,IL6,Secrete
+DC,IL12,Secrete
+DC,IL12,Secrete
+DC,Retinoic acid,Secrete
+DC,IL1,Secrete
+DC,IL6,Secrete
+DC,IL12,Secrete
+DC,IL23,Secrete
+DC,IL6,Secrete
+DC,IL23,Secrete
+DC,IL1,Secrete
+DC,IL6,Secrete
+DC,IL23,Secrete
+DC,BAFF,Secrete
+DC,IL12,Secrete
+DC,IL18,Secrete
+DC,IL23,Secrete
+DC,IL10,Secrete
+DC,IL12,Secrete
+DC,IL18,Secrete
+DC,IL12,Secrete
+DC,IL18,Secrete
+DC,IL23,Secrete
+DC,CCL21,Secrete
+DC,CCL19,Secrete
+DC,CCL21,Secrete
+DC,CCL19,Secrete
+DC,CCL21,Secrete
+DC,CCL21,Secrete
+DC,CCL19,Secrete
+DC,CCL18,Secrete
+DC,BAFF,Secrete
+DC,CCL19,Secrete
+DC,CCL19,Secrete
+DC,CCL21,Secrete
+DC,CCL19,Secrete
+DC,IL10,Secrete
+DC,Retinoic acid,Secrete
+DC,APRIL,Secrete
+DC,BAFF,Secrete
+DC,IL23,Secrete
+DC,IFNa,Secrete
+DC,IL10,Secrete
+DC,IL12,Secrete
+DC,IL28,Secrete
+DC,IL29,Secrete
+DC,IL27,Secrete
+DC,IL23,Secrete
+DC,Retinoic acid,Secrete
+DC,IL37,Secrete
+DC,Retinoic acid,Secrete
+DC (CD11b-),IL12,Secrete
+DC (CD11b+),IL23,Secrete
+DC (CD8a+),IL12,Secrete
+Endothelial,CCL4,Secrete
+Endothelial,CCL5,Secrete
+Endothelial,CX3CL1,Secrete
+Endothelial,CXCL8,Secrete
+Endothelial,CCL21,Secrete
+Endothelial,IL6,Secrete
+Endothelial,IL3,Secrete
+Endothelial,IL7,Secrete
+Endothelial,MIF,Secrete
+Endothelial_HEV,CCL21,Secrete
+Endothelial_HEV,CCL21,Secrete
+Endothelial_HEV,CCL21,Secrete
+Endothelial_HEV,CCL21,Secrete
+Endothelial_HEV,IL33,Secrete
+Endothelial_vascular,CCL25,Secrete
+Endothelial_vascular,CCL17,Secrete
+Eosinophil,Kynurenine,Secrete
+Eosinophil,IL4,Secrete
+Eosinophil,APRIL,Secrete
+Eosinophil,IL6,Secrete
+Eosinophil,TGFb,Secrete
+Eosinophil,Major basic protein,Secrete
+Eosinophil,APRIL,Secrete
+Eosinophil,IL6,Secrete
+Eosinophil,TGFb,Secrete
+Eosinophil,IL4,Secrete
+Eosinophil,Major basic protein,Secrete
+Eosinophil,Major basic protein,Secrete
+Eosinophil,Eosinophil cationic protein,Secrete
+Eosinophil,Prostaglandins,Secrete
+Eosinophil,Leukotrienes,Secrete
+Eosinophil,CXCL8,Secrete
+Eosinophil,Eosinophil-derived neurotoxin,Secrete
+Eosinophil,Eosinophil collagenase,Secrete
+Eosinophil,Matrix Metalloproteinase-9,Secrete
+Eosinophil,Leukotriene C4,Secrete
+Eosinophil,Platelet-Activating Factor,Secrete
+Eosinophil,Leukotriene D4,Secrete
+Eosinophil,Leukotriene E4,Secrete
+Eosinophil,Eosinophil peroxidase,Secrete
+Eosinophil,IL3,Secrete
+Eosinophil,IL5,Secrete
+Eosinophil,GMCSF,Secrete
+Eosinophil,TGFa,Secrete
+Eosinophil,TGFb,Secrete
+Eosinophil,Major basic protein,Secrete
+Eosinophil,IL16,Secrete
+Epithelial,Lectins,Secrete
+Epithelial,Ficolin,Secrete
+Epithelial,CXCL8,Secrete
+Endothelial,CXCL1,Secrete
+Endothelial,CXCL2,Secrete
+Endothelial,CXCL3,Secrete
+Epithelial,TSLP,Secrete
+Epithelial,IL33,Secrete
+Epithelial,IL25,Secrete
+Epithelial,TGFb,Secrete
+Epithelial,IL1a,Secrete
+Epithelial,IL1b,Secrete
+Epithelial,IL20,Secrete
+Epithelial,IL25,Secrete
+Epithelial,IL33,Secrete
+Epithelial,IL32,Secrete
+Epithelial,TSLP,Secrete
+Epithelial,IL37,Secrete
+Epithelial_airway,IL25,Secrete
+Epithelial_airway,IL33,Secrete
+Epithelial_airway,IL25,Secrete
+Epithelial_airway,IL33,Secrete
+Epithelial_barrier,IL33,Secrete
+Epithelial_barrier,Antimicrobial peptides,Secrete
+Epithelial_barrier,Antimicrobial peptides,Secrete
+Epithelial_barrier,Antimicrobial peptides,Secrete
+Epithelial_barrier,CCL20,Secrete
+Epithelial_barrier,NO,Secrete
+Epithelial_bronchial,CCL11,Secrete
+Epithelial_bronchial,CCL5,Secrete
+Epithelial_colon,CCL28,Secrete
+Epithelial_intestine,CCL20,Secrete
+Epithelial_intestine,CCL9,Secrete
+Epithelial_intestine,BAFF,Secrete
+Epithelial_intestine,APRIL,Secrete
+Epithelial_intestine,TSLP,Secrete
+Epithelial_intestine,Retinoic acid,Secrete
+Epithelial_intestine,IL25,Secrete
+Epithelial_intestine,IL33,Secrete
+Epithelial_intestine,Serum Amyloid A,Secrete
+Epithelial_intestine,CXCL8,Secrete
+Epithelial_intestine,CXCL1,Secrete
+Epithelial_intestine,CCL1,Secrete
+Epithelial_intestine,CCL2,Secrete
+Epithelial_intestine,CCL20,Secrete
+Epithelial_intestine,IL1,Secrete
+Epithelial_intestine,IL6,Secrete
+Epithelial_intestine,IL1,Secrete
+Epithelial_intestine,IL18,Secrete
+Macrophage,IL1,Secrete
+Macrophage,IL18,Secrete
+Macrophage,CXCL8,Secrete
+Epithelial_intestine,CXCL8,Secrete
+Epithelial_intestine,IL1,Secrete
+Epithelial_intestine,IL6,Secrete
+Epithelial_intestine,CXCL8,Secrete
+Epithelial_intestine,CCL2,Secrete
+Epithelial_intestine,CCL3,Secrete
+Epithelial_intestine,CCL4,Secrete
+Epithelial_intestine,CCL5,Secrete
+Epithelial_intestine,CCL20,Secrete
+Epithelial_intestine,IL1,Secrete
+Epithelial_intestine,IL15,Secrete
+Epithelial_intestine,Antimicrobial peptides,Secrete
+Epithelial_intestine,TSLP,Secrete
+Epithelial_intestine,Antimicrobial peptides,Secrete
+Epithelial_intestine,CCL25,Secrete
+Epithelial_intestine,CCL20,Secrete
+Epithelial_intestine,CCL25,Secrete
+Epithelial_intestine,CCL20,Secrete
+Epithelial_intestine,CCL25,Secrete
+Epithelial_Mucosa,TGFb,Secrete
+Epithelial_Mucosa,IL15,Secrete
+Epithelial_Mucosa,IL15,Secrete
+Epithelial_Mucosa,Cathelicidins,Secrete
+Epithelial_Mucosa,Antimicrobial peptides,Secrete
+Epithelial_Mucosa,Defensins,Secrete
+Epithelial_Mucosa,IL33,Secrete
+Epithelial_Mucosa,IL25,Secrete
+Epithelial_Mucosa,CCL28,Secrete
+FDC,CXCL13,Secrete
+FDC,CXCL13,Secrete
+FDC,BAFF,Secrete
+FDC,BAFF,Secrete
+FDC,CXCL13,Secrete
+FDC,CXCL13,Secrete
+FDC,CXCL13,Secrete
+FDC,CXCL13,Secrete
+Fibroblast,CCL3,Secrete
+Fibroblast,CXCL8,Secrete
+Fibroblast,CXCL1,Secrete
+Fibroblast,CXCL2,Secrete
+Fibroblast,CXCL3,Secrete
+Fibroblast,CCL2,Secrete
+Fibroblast,IFNb,Secrete
+Fibroblast,GCSF,Secrete
+Fibroblast,IL11,Secrete
+Fibroblast,LIF,Secrete
+Fibroblast,MMPs,Secrete
+Fibroblast,OPGL,Secrete
+Hepatocyte,Ficolin,Secrete
+Hepatocyte,SPA,Secrete
+Hepatocyte,SPD,Secrete
+Hepatocyte,CRP,Secrete
+Hepatocyte,Mannose-binding lectin,Secrete
+Hepatocyte,SAP,Secrete
+Hepatocyte,Fibrinogen,Secrete
+Hepatocyte,Mannose-binding lectin,Secrete
+Hepatocyte,CRP,Secrete
+Hepatocyte,IL1RA,Secrete
+IEL_CD8_a,Perforin,Secrete
+IEL_CD8_a,Granzymes,Secrete
+IEL_CD8_a,IFNg,Secrete
+IEL_CD8_b,Perforin,Secrete
+IEL_CD8_b,Granzymes,Secrete
+IEL_CD8_b,NO,Secrete
+IEL_CD8_b,TGFb,Secrete
+IEL_CD8_b,Keratinocyte growth factor,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC1,IFNg,Secrete
+ILC2,IL4,Secrete
+ILC2,IL5,Secrete
+ILC2,IL9,Secrete
+ILC2,IL13,Secrete
+ILC2,IL5,Secrete
+ILC2,IL13,Secrete
+ILC2,IL4,Secrete
+ILC2,IL5,Secrete
+ILC2,IL13,Secrete
+ILC2,IL4,Secrete
+ILC2,IL17,Secrete
+ILC2,IL22,Secrete
+ILC2,IL13,Secrete
+ILC2,IL5,Secrete
+ILC2,IL13,Secrete
+ILC2,IL13,Secrete
+ILC2,IL5,Secrete
+ILC2,IL13,Secrete
+ILC2,IL5,Secrete
+ILC2,IL13,Secrete
+ILC2,IL13,Secrete
+ILC2,IL5,Secrete
+ILC2,IL13,Secrete
+ILC2,IL5,Secrete
+ILC2,IL13,Secrete
+ILC2,IL4,Secrete
+ILC2,IL5,Secrete
+ILC2,IL13,Secrete
+ILC3,IL22,Secrete
+ILC3,IL17,Secrete
+ILC3,IL17,Secrete
+ILC3,IL22,Secrete
+ILC3,IL17,Secrete
+ILC3,IL22,Secrete
+ILC3,CCL20,Secrete
+ILC3,IL22,Secrete
+ILC3,IL17,Secrete
+ILC3,IL22,Secrete
+ILC3,IL22,Secrete
+ILC3,IL22,Secrete
+ILC3,IFNg,Secrete
+ILC3,IL17,Secrete
+ILC3,IL17,Secrete
+ILC3,IL22,Secrete
+ILC3,IL22,Secrete
+ILC3,IL17,Secrete
+ILC3,IL22,Secrete
+ILC3,IL22,Secrete
+ILC3,IL17F,Secrete
+ILC3,IL17A,Secrete
+ILC3,LTb,Secrete
+Keratinocyte,CCL2,Secrete
+Keratinocyte,Cathelicidins,Secrete
+Keratinocyte,CCL27,Secrete
+Keratinocyte,IL1,Secrete
+Keratinocyte,IL6,Secrete
+Keratinocyte,TNFa,Secrete
+Keratinocyte,GMCSF,Secrete
+Keratinocyte,CXCL8,Secrete
+Keratinocyte,CXCL11,Secrete
+Keratinocyte,CXCL10,Secrete
+Keratinocyte,CXCL9,Secrete
+Keratinocyte,IL1,Secrete
+Keratinocyte,TNFa,Secrete
+Keratinocyte,CXCL8,Secrete
+Keratinocyte,CXCL9,Secrete
+Keratinocyte,CXCL11,Secrete
+Keratinocyte,IL35,Secrete
+LTi,IL22,Secrete
+LTi,IL17,Secrete
+M1,NO,Secrete
+M2,Ornithine,Secrete
+M2,Proline,Secrete
+Macrophage,IL1a,Secrete
+Macrophage,IL18,Secrete
+Macrophage,Lysozyme,Secrete
+Macrophage,Secretory phospholipase A2,Secrete
+Macrophage,Antimicrobial peptides,Secrete
+Macrophage,Cathelicidins,Secrete
+Macrophage,ROS,Secrete
+Macrophage,NO,Secrete
+Macrophage,Cathelicidins,Secrete
+Macrophage,Lysozyme,Secrete
+Macrophage,Macrophage elastase-derived peptide,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,Prostaglandins,Secrete
+Macrophage,Leukotrienes,Secrete
+Macrophage,Platelet-Activating Factor,Secrete
+Macrophage,IL6,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,IL1b,Secrete
+Macrophage,CXCL8,Secrete
+Macrophage,IL12,Secrete
+Macrophage,CCL4,Secrete
+Macrophage,CXCL8,Secrete
+Macrophage,CCL2,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,CXCL8,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,IL6,Secrete
+Macrophage,IL12,Secrete
+Macrophage,IL18,Secrete
+Macrophage,IL12,Secrete
+Macrophage,IL18,Secrete
+Macrophage,IL10,Secrete
+Macrophage,IL12,Secrete
+Macrophage,IL12,Secrete
+Macrophage,IL12,Secrete
+Macrophage,IL18,Secrete
+Macrophage,IL12,Secrete
+Macrophage,IL18,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,NO,Secrete
+Macrophage,Superoxide,Secrete
+Macrophage,IL10,Secrete
+Macrophage,IL10,Secrete
+Macrophage,IL12,Secrete
+Macrophage,BAFF,Secrete
+Macrophage,APRIL,Secrete
+Macrophage,IL1,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,NO,Secrete
+Macrophage,IL6,Secrete
+Macrophage,IL1a,Secrete
+Macrophage,IL1b,Secrete
+Macrophage,GMCSF,Secrete
+Macrophage,IL10,Secrete
+Macrophage,IL12,Secrete
+Macrophage,IL1RA,Secrete
+Macrophage,IL18,Secrete
+Macrophage,IL27,Secrete
+Macrophage,IL23,Secrete
+Macrophage,TWEAK,Secrete
+Macrophage,TNFa,Secrete
+Macrophage,OSM,Secrete
+Macrophage,IL1,Secrete
+Macrophage,IL17,Secrete
+Macrophage,TNFa,Secrete
+Macrophage ,IL6,Secrete
+Mast,Prostaglandins,Secrete
+Mast,Leukotrienes,Secrete
+Mast,Thromboxanes,Secrete
+Mast,Platelet-Activating Factor,Secrete
+Mast,Histamine,Secrete
+Mast,TNFa,Secrete
+Mast,Histamine,Secrete
+Mast,TNFa,Secrete
+Mast,Cathelicidins,Secrete
+Mast,CCL3,Secrete
+Mast,Histamine,Secrete
+Mast,IL33,Secrete
+Mast,IL4,Secrete
+Mast,Prostaglandins,Secrete
+Mast,Leukotrienes,Secrete
+Mast,MMCP1,Secrete
+Mast,IL4,Secrete
+Mast,IL4,Secrete
+Mast,Histamine,Secrete
+Mast,TNFa,Secrete
+Mast,MMCP,Secrete
+Mast,IL4,Secrete
+Mast,Histamine,Secrete
+Mast,Serine esterases,Secrete
+Mast,Chymase,Secrete
+Mast,Tryptase,Secrete
+Mast,Histamine,Secrete
+Mast,Heparin,Secrete
+Mast,TNFa,Secrete
+Mast,Prostaglandin D2,Secrete
+Mast,Leukotriene C4,Secrete
+Mast,Prostaglandin E2,Secrete
+Mast,Leukotriene D4,Secrete
+Mast,Leukotriene E4,Secrete
+Mast,IL4,Secrete
+Mast,IL13,Secrete
+Mast,IL33,Secrete
+Mast,Tryptase,Secrete
+Mast,Chymase,Secrete
+Mast,Cathepsin G,Secrete
+Mast,Carboxypeptidase,Secrete
+Mast,IL3,Secrete
+Mast,IL5,Secrete
+Mast,GMCSF,Secrete
+Mast,CCL3,Secrete
+Mast,Platelet-Activating Factor,Secrete
+Mast,IL10,Secrete
+Mast,TNFa,Secrete
+Mast,IL4,Secrete
+Mast,Histamine,Secrete
+Mast,Histamine,Secrete
+Mast,Histamine,Secrete
+Mast,Prostaglandins,Secrete
+Mast,Leukotrienes,Secrete
+Mast,Platelet-Activating Factor,Secrete
+Mast,Histamine,Secrete
+Mast,Leukotrienes,Secrete
+Mast,Histamine,Secrete
+Mast,IL4,Secrete
+Mast,IL5,Secrete
+Mast,IL25,Secrete
+Mast,IL16,Secrete
+Mast,CD40L,Secrete
+Mast,Prostaglandin D2,Secrete
+Mast,Leukotriene C4,Secrete
+Mast,TNFa,Secrete
+Mast,Histamine,Secrete
+Mast,Prostaglandin D2,Secrete
+Mast,CGRP,Secrete
+Mast,VEGF,Secrete
+Mast,Histamine,Secrete
+Mast,Prostaglandins,Secrete
+MCct,Chymase,Secrete
+MCct,Carboxypeptidase,Secrete
+MCct,Cathepsin G,Secrete
+Mct,Tryptase,Secrete
+Microglia,CX3CL1,Secrete
+Monocyte,CCL4,Secrete
+Monocyte,CCL3,Secrete
+Monocyte,CX3CL1,Secrete
+Monocyte,CXCL8,Secrete
+Monocyte,CXCL1,Secrete
+Monocyte,CXCL2,Secrete
+Monocyte,CXCL3,Secrete
+Monocyte,CCL2,Secrete
+Monocyte,IL1,Secrete
+Monocyte,IL6,Secrete
+Monocyte,GCSF,Secrete
+Monocyte,IL1RA,Secrete
+Monocyte,IL24,Secrete
+Monocyte,IL20,Secrete
+Monocyte,IL27,Secrete
+Monocyte,IL19,Secrete
+Monocyte,IL32,Secrete
+Monocyte,IL6,Secrete
+Monocyte,TNFa,Secrete
+Monocyte,Trail,Secrete
+Monocyte,TGFb,Secrete
+Monocyte,IL35,Secrete
+Monocyte,IL37,Secrete
+Myeloid,NO,Secrete
+Myeloid,TNFa,Secrete
+Myeloid,IL6,Secrete
+Myeloid,TNFa,Secrete
+Myeloid,NO,Secrete
+Myeloid,GCSF,Secrete
+Myeloid,Cytokines,Secrete
+Neutrophil,Lysozyme,Secrete
+Neutrophil,Secretory phospholipase A2,Secrete
+Neutrophil,Antimicrobial peptides,Secrete
+Neutrophil,a-defensin,Secrete
+Neutrophil,Cathelicidins,Secrete
+Neutrophil,Properdin,Secrete
+Neutrophil,ROS,Secrete
+Neutrophil,NO,Secrete
+Neutrophil,HNP1-4,Secrete
+Neutrophil,HBD4,Secrete
+Neutrophil,Azurocidin,Secrete
+Neutrophil,Bacterial permeability inducing protein,Secrete
+Neutrophil,Lactoferrin,Secrete
+Neutrophil,Lysozyme,Secrete
+Neutrophil,Prostaglandins,Secrete
+Neutrophil,Leukotrienes,Secrete
+Neutrophil,Platelet-Activating Factor,Secrete
+Neutrophil,CCL4,Secrete
+Neutrophil,Calprotectin,Secrete
+Neutrophil,IFNg,Secrete
+Neutrophil,IL1RA,Secrete
+Neutrophil,IL22,Secrete
+Neutrophil,IL17F,Secrete
+Neutrophil,IL17A,Secrete
+NK,IFNg,Secrete
+NK,Perforin,Secrete
+NK,Granzymes,Secrete
+NK,Perforin,Secrete
+NK,Granzymes,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,TNFa,Secrete
+NK,GMCSF,Secrete
+NK,CCL3,Secrete
+NK,CCL4,Secrete
+NK,CCL5,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,Granzymes,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,IFNg,Secrete
+NK,Perforin,Secrete
+NK,IFNg,Secrete
+NK,IL22,Secrete
+NK,IL17F,Secrete
+NK,IL26,Secrete
+NK,IL17A,Secrete
+NK,IL32,Secrete
+NK,IFNg,Secrete
+NK,TNFa,Secrete
+Paneth,Lysozyme,Secrete
+Paneth,Secretory phospholipase A2,Secrete
+Paneth,Cryptdins,Secrete
+Paneth,a-defensin,Secrete
+Paneth,b-defensin,Secrete
+Paneth,RegIIIg,Secrete
+Paneth,Defensins,Secrete
+Paneth,RegIIIg,Secrete
+Paneth,Defensins,Secrete
+pDC,IFNa,Secrete
+pDC,IFNb,Secrete
+pDC,IL6,Secrete
+pDC,IL12,Secrete
+pDC,IL18,Secrete
+pDC,IFNa,Secrete
+pDC,IFNb,Secrete
+pDC,IL12,Secrete
+pDC,IFNa,Secrete
+pDC,IFNa,Secrete
+Platelet,CCL5,Secrete
+Platelet,CXCL7,Secrete
+Stromal,TSLP,Secrete
+Stromal,Prostaglandin E2,Secrete
+Stromal,CCL21,Secrete
+Stromal,CCL21,Secrete
+Stromal,GCSF,Secrete
+Stromal,GCSF,Secrete
+Stromal,CXCL8,Secrete
+Stromal,CXCL2,Secrete
+Stromal ,Retinoic acid,Secrete
+Stromal_LN,CXCL13,Secrete
+Stromal_LN,CCL21,Secrete
+Stromal_LN,CXCL13,Secrete
+Stromal_LN,CCL21,Secrete
+Stromal_LN,CCL21,Secrete
+Stromal_LN,CCL21,Secrete
+Stromal_LN,BAFF,Secrete
+Stromal_LN,CXCL12,Secrete
+Stromal_LN,CCL19,Secrete
+Stromal_LN,CCL21,Secrete
+Stromal_LN,CXCL13,Secrete
+Stromal_LN,CCL21,Secrete
+Stromal_LN,CCL19,Secrete
+T,IL2,Secrete
+T,CCL3,Secrete
+T,CCL5,Secrete
+T,CXCL9,Secrete
+T,CXCL10,Secrete
+T,CXCL11,Secrete
+T,BAFF,Secrete
+T,APRIL,Secrete
+T,IL6,Secrete
+T,IL4,Secrete
+T,MCSF,Secrete
+T,GMCSF,Secrete
+T,IL3,Secrete
+T,IL10,Secrete
+T,IFNg,Secrete
+T,IL5,Secrete
+T,IL9,Secrete
+T,IL2,Secrete
+T,IL13,Secrete
+T,IL24,Secrete
+T,IL16,Secrete
+T,IL32,Secrete
+T,IFNg,Secrete
+T,APRIL,Secrete
+T,CD40L,Secrete
+T,Trail,Secrete
+T,FasL,Secrete
+T,LTa,Secrete
+T,TGFb,Secrete
+T,TNFa,Secrete
+T,LTb,Secrete
+T,41BBL,Secrete
+T,LIGHT,Secrete
+T,MIF,Secrete
+T,OPGL,Secrete
+T,CD30L,Secrete
+T,CD27L,Secrete
+T,OSM,Secrete
+T,OPGL,Secrete
+T (Effector Memory),IFNg,Secrete
+T (Effector Memory),IL4,Secrete
+T (Effector Memory),IL5,Secrete
+T (Effector Memory),IFNg,Secrete
+T (Effector Memory),IL4,Secrete
+T (Effector Memory),IL5,Secrete
+T (memory),IFNg,Secrete
+T (memory),TNFa,Secrete
+T (memory),IL2,Secrete
+T (memory),IFNg,Secrete
+T (memory),IL17,Secrete
+T_CD4,IL2,Secrete
+T_CD4,IL2,Secrete
+T_CD4,IL2,Secrete
+T_CD4,IFNg,Secrete
+T_CD4 (effector),GMCSF,Secrete
+T_CD4 (effector),IL2,Secrete
+T_CD4 (effector),IL2,Secrete
+T_CD4 (effector),IL2,Secrete
+T_CD4 (effector),IL10,Secrete
+T_CD4 (effector),IL17,Secrete
+T_CD4 (effector),IL17,Secrete
+T_CD4 (effector),IFNg,Secrete
+T_CD4 (effector),TNFa,Secrete
+T_CD8,IL2,Secrete
+T_CD8,IL2,Secrete
+T_CD8,IL2,Secrete
+T_CD8,IL2,Secrete
+T_CD8,IL2,Secrete
+T_CD8,IL2,Secrete
+T_CD8,IFNg,Secrete
+T_CD8,IFNg,Secrete
+T_CD8,IFNg,Secrete
+T_CD8,IFNg,Secrete
+T_CD8,IFNg,Secrete
+T_CD8,IFNg,Secrete
+T_CD8,IFNg,Secrete
+T_CD8,IL17F,Secrete
+T_CD8,IL17A,Secrete
+T_Cytotoxic,Perforin,Secrete
+T_Cytotoxic,Granzymes,Secrete
+T_Cytotoxic,IFNg,Secrete
+T_Cytotoxic,Perforin,Secrete
+T_Cytotoxic,Granzymes,Secrete
+T_Cytotoxic,IFNg,Secrete
+T_Cytotoxic,LTa,Secrete
+T_Cytotoxic,TNFa,Secrete
+T_Cytotoxic,IFNg,Secrete
+T_Cytotoxic,LTa,Secrete
+T_Cytotoxic,IL10,Secrete
+T_Cytotoxic,IL3,Secrete
+T_Cytotoxic,TNFa,Secrete
+T_Cytotoxic,GMCSF,Secrete
+T_Cytotoxic,Perforin,Secrete
+T_Cytotoxic,Granzymes,Secrete
+T_Cytotoxic,Granulysin,Secrete
+T_Cytotoxic,Perforin,Secrete
+T_Cytotoxic,Granzymes,Secrete
+T_Cytotoxic,IFNg,Secrete
+T_Cytotoxic,TNFa,Secrete
+T_Cytotoxic,LTa,Secrete
+T_Cytotoxic,IFNg,Secrete
+T_Cytotoxic,IFNg,Secrete
+T_gd,IL17,Secrete
+T_gd,IFNg,Secrete
+T_gd,IL4,Secrete
+T_gd,IFNg,Secrete
+T_gd,IFNg,Secrete
+T_gd,IL22,Secrete
+T_gd,IL17F,Secrete
+T_gd,IL17A,Secrete
+T_reg,TGFb,Secrete
+T_reg,IL10,Secrete
+T_reg,TGFb,Secrete
+T_reg,TGFb,Secrete
+T_reg,TGFb,Secrete
+T_reg,TGFb,Secrete
+T_reg,IL10,Secrete
+T_reg,IL10,Secrete
+T_reg,TGFb,Secrete
+T_reg,IL35,Secrete
+T_reg,TGFb,Secrete
+T_reg,IL10,Secrete
+T_reg,IL10,Secrete
+T_reg,IL10,Secrete
+T_reg,TGFb,Secrete
+T_reg,IL10,Secrete
+T_reg,IL10,Secrete
+T_reg,IL10,Secrete
+T_reg,IL10,Secrete
+T_reg,TGFb,Secrete
+T_reg,IL10,Secrete
+T_reg,TGFb,Secrete
+T_reg,IL10,Secrete
+T_reg,TGFb,Secrete
+T_reg,IL35,Secrete
+T_reg_i,TGFb,Secrete
+T_reg_i,IL10,Secrete
+T_reg_i,IL10,Secrete
+T_reg_n,TGFb,Secrete
+T_reg_n,IL10,Secrete
+Tfh,IL21,Secrete
+Tfh,IL17,Secrete
+Tfh,IL17,Secrete
+Tfh,IL22,Secrete
+Tfh,IFNg,Secrete
+Tfh,IL4,Secrete
+Tfh,IL17,Secrete
+Tfh,IL21,Secrete
+Tfh,IFNg,Secrete
+Tfh,IL4,Secrete
+Tfh,IL21,Secrete
+Tfh,IL6,Secrete
+Tfh,TGFb,Secrete
+Tfh,IFNg,Secrete
+Tfh,IL4,Secrete
+Tfh,IL21,Secrete
+Tfh,IL6,Secrete
+Tfh,TGFb,Secrete
+Tfh,IFNg,Secrete
+Tfh,IL4,Secrete
+Tfh,IL4,Secrete
+Tfh,IL21,Secrete
+Tfh,IL4,Secrete
+Tfh,IFNg,Secrete
+Tfh,IL6,Secrete
+Tfh,IL21,Secrete
+Tfh,IL21,Secrete
+Tfh,IL21,Secrete
+Tfh,IL4,Secrete
+Tfh,IFNg,Secrete
+Tfh,IL4,Secrete
+Tfh,IL21,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IL10,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IL3,Secrete
+Th1,GMCSF,Secrete
+Th1,IFNg,Secrete
+Th1,GMCSF,Secrete
+Th1,TNFa,Secrete
+Th1,IL3,Secrete
+Th1,LTa,Secrete
+Th1,CXCL2,Secrete
+Th1,IL2,Secrete
+Th1,IFNg,Secrete
+Th1,LTa,Secrete
+Th1,IL10,Secrete
+Th1,IL3,Secrete
+Th1,TNFa,Secrete
+Th1,GMCSF,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IL3,Secrete
+Th1,GMCSF,Secrete
+Th1,TNFa,Secrete
+Th1,LTa,Secrete
+Th1,CCL2,Secrete
+Th1,IFNg,Secrete
+Th1,IL2,Secrete
+Th1,IL3,Secrete
+Th1,GMCSF,Secrete
+Th1,TNFa,Secrete
+Th1,LTa,Secrete
+Th1,IL2,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,TNFa,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,IFNg,Secrete
+Th1,LTa,Secrete
+Th1,TNFa,Secrete
+Th1,IFNg,Secrete
+Th1,IL3,Secrete
+Th1,GMCSF,Secrete
+Th1,TNFa,Secrete
+Th1,LTa,Secrete
+Th1,IFNg,Secrete
+Th1,IL20,Secrete
+Th17,IL17,Secrete
+Th17,IL21,Secrete
+Th17,IL22,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IL17,Secrete
+Th17,IL17,Secrete
+Th17,IL10,Secrete
+Th17,IL3,Secrete
+Th17,GMCSF,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IL3,Secrete
+Th17,TNFa,Secrete
+Th17,CCL20,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IL10,Secrete
+Th17,IL3,Secrete
+Th17,TNFa,Secrete
+Th17,GMCSF,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IL22,Secrete
+Th17,IL22,Secrete
+ILC3,IL22,Secrete
+Th17,IL17,Secrete
+Th17,CCL20,Secrete
+Th17,IL22,Secrete
+Th17,IL22,Secrete
+Th17,IL22,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IFNg,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,CCL20,Secrete
+Th17,IL17,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IL22,Secrete
+Th17,IL17,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,IL17,Secrete
+Th17,IL22,Secrete
+Th17,Cytokines,Secrete
+Th17,IL22,Secrete
+Th17,IL17F,Secrete
+Th17,IL26,Secrete
+Th17,IL17A,Secrete
+Th17,IL17,Secrete
+Th2,IL4,Secrete
+Th2,IL5,Secrete
+Th2,IL13,Secrete
+Th2,IL4,Secrete
+Th2,IL5,Secrete
+Th2,IL13,Secrete
+Th2,IL4,Secrete
+Th2,IL13,Secrete
+Th2,IL4,Secrete
+Th2,IL4,Secrete
+Th2,IL4,Secrete
+Th2,IL10,Secrete
+Th2,IL4,Secrete
+Th2,IL4,Secrete
+Th2,IL4,Secrete
+Th2,IL5,Secrete
+Th2,IL9,Secrete
+Th2,IL13,Secrete
+Th2,IL3,Secrete
+Th2,GMCSF,Secrete
+Th2,IL3,Secrete
+Th2,GMCSF,Secrete
+Th2,IL10,Secrete
+Th2,TGFb,Secrete
+Th2,CCL11,Secrete
+Th2,CCL17,Secrete
+Th2,IL4,Secrete
+Th2,IL5,Secrete
+Th2,IL13,Secrete
+Th2,IL10,Secrete
+Th2,IL3,Secrete
+Th2,TNFa,Secrete
+Th2,GMCSF,Secrete
+Th2,IL5,Secrete
+Th2,IL4,Secrete
+Th2,IL4,Secrete
+Th2,IL13,Secrete
+Th2,IL5,Secrete
+Th2,IL3,Secrete
+Th2,IL9,Secrete
+Th2,IL13,Secrete
+Th2,IL4,Secrete
+Th2,IL13,Secrete
+Th2,IL5,Secrete
+Th2,IL13,Secrete
+Th2,IL5,Secrete
+Th2,IL13,Secrete
+Th2,IL13,Secrete
+Th2,IL13,Secrete
+Th2,IL4,Secrete
+Th2,IL13,Secrete
+Th2,IL5,Secrete
+Th2,IL3,Secrete
+Th2,IL9,Secrete
+Th2,IL4,Secrete
+Th2,IL13,Secrete
+Th2,IL4,Secrete
+Th2,IL5,Secrete
+Th2,IL9,Secrete
+Th2,IL13,Secrete
+Th2,IL4,Secrete
+Th2,IL13,Secrete
+Th2,IL5,Secrete
+Th2,GMCSF,Secrete
+Th2,IL21,Secrete
+Th2,IL31,Secrete
+Th2,IL25,Secrete
+Th2,IL4,Secrete
+Th2,IL5,Secrete
+Th2,IL13,Secrete
+Th22,IL22,Secrete
+Tumor,TGFb,Secrete
+Tumor,IL10,Secrete
+Tumor,IDO,Secrete
+Tumor,IL10,Secrete
+Tumor,IDO,Secrete
+Unknown,CXCL13,Secrete
+APRIL,B,Survive
+APRIL,B,Survive
+B,T,Survive
+B,DC,Survive
+BAFF,B,Survive
+BAFF,B,Survive
+BAFF,B,Survive
+DC,T (effector),Survive
+DC,B,Survive
+IL1,Th17,Survive
+IL10,T_reg,Survive
+IL15,T_CD8_memory,Survive
+IL15,T_CD8_memory,Survive
+IL15,T (naive),Survive
+IL15,T (naive),Survive
+IL15,T (memory),Survive
+IL16,T,Survive
+IL16,T,Survive
+IL2,T_reg,Survive
+IL2,T,Survive
+IL2,T_reg,Survive
+IL2,T_CD4,Survive
+IL2,T_CD8,Survive
+IL2,T_CD8 ,Survive
+IL21,B,Survive
+IL21,B,Survive
+IL23,Th17,Survive
+IL4,T,Survive
+IL6,Th17,Survive
+IL6,B_Plasma,Survive
+IL7,T_CD8_memory,Survive
+IL7,T_CD4_memory,Survive
+IL7,T (naive),Survive
+IL7,T (naive),Survive
+IL7,T (memory),Survive
+IL7,T_CD4,Survive
+IL7,T_CD8,Survive
+Innate,T,Survive
+Innate,DC,Survive
+Monocyte,B,Survive
+T,T,Survive
+T,DC,Survive
+T_CD4,T_CD8_memory,Survive
+Tfh,B,Survive
+Tfh,B,Survive
+Tfh,B_Plasma,Survive
+Tfh,B,Survive
+TNFa,Macrophage,Survive
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

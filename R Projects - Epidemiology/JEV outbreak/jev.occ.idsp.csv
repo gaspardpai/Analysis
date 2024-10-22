@@ -1,0 +1,318 @@
+id,state,district,location,latitude,longitude,day,month,year
+KN/DHA/2021/06 /0064,Karnataka,Dharwad,Mandihal,15.450308,74.90513,9,2,2021
+AS/KOK/2020/42/448,Assam,Kokrajhar,Pratapkhata,26.381954,90.129016,6,7,2020
+AS/KOK/2020/42/448,Assam,Kokrajhar,Serfanguri,26.546824,90.17116,6,7,2020
+AS/KOK/2020/42/448,Assam,Kokrajhar,Balajan,26.485084,90.303369,6,7,2020
+AS/KOK/2020/42/448,Assam,Kokrajhar,Kachugaon,26.383052,90.031295,6,7,2020
+AS/DAR/2020/40/442,Assam,Darrang,Hazarikapara,26.393053,91.958982,4,10,2020
+AS/DAR/2020/40/442,Assam,Darrang,Mathanga,26.510773,91.995503,4,10,2020
+AS/DAR/2020/40/442,Assam,Darrang,Dhula,26.484515,92.095299,4,10,2020
+AS/DAR/2020/40/442,Assam,Darrang,Tengera,26.450595,91.817809,4,10,2020
+AS/DAR/2020/40/442,Assam,Darrang,Turai,26.426876,91.890588,4,10,2020
+JH/GDA/2020/37/437,Jharkhand,Godda,Godda,24.828234,87.213485,3,9,2020
+AS/CRG/2020/36/422,Assam,Chirang,Ballamguri,26.465757,89.970013,19,8,2020
+PN/KAR/2020/36/434,Puduchchery,Karaikal,Dharmapuram,10.92509,79.812734,2,9,2020
+AS/KOK/2020/35/417,Assam,Kokrajhar,Dotma,26.483882,90.164099,16,7,2020
+AS/KOK/2020/35/417,Assam,Kokrajhar,Balajan,26.485084,90.303369,16,7,2020
+AS/KOK/2020/35/417,Assam,Kokrajhar,Gossaigaon,26.435876,89.98043,16,7,2020
+AS/KOK/2020/35/417,Assam,Kokrajhar,"Saktiashram, Chokapara",26.408579,90.176192,16,7,2020
+JH/GDA/2020/34/409,Jharkhand,Godda,Boarijore (Boarijor),25.061988,87.474831,21,8,2020
+JH/GDA/2020/34/409,Jharkhand,Godda,Lohandia (Lohandiya),25.052029,87.375425,21,8,2020
+AS/CRG/2020/34/411,Assam,Chirang,Silbari,26.665204,91.193704,12,7,2020
+AS/CRG/2020/34/411,Assam,Chirang,Abadipara,26.593658,90.676383,12,7,2020
+AS/CRG/2020/34/411,Assam,Chirang,Tulsijhara (Tulsijhora),26.591462,90.573872,12,7,2020
+AS/KAD/2020/34/412,Assam,Karbi-Anglog,Rongbong Pathar,25.978703,93.431439,22,7,2020
+AS/KOK/2020/33/408,Assam,Kokrajhar,Anthaibari,26.454223,90.021634,22,7,2020
+AS/CRG/2020/32/402,Assam,Chirang,Ballamguri,26.465757,89.970013,7,8,2020
+AS/CRG/2020/32/402,Assam,Chirang,Bijni,26.493772,90.702567,7,8,2020
+AS/KOK/2020/32/403,Assam,Kokrajhar,Bhotgaon,26.355991,90.238035,8,8,2020
+AS/KOK/2020/32/403,Assam,Kokrajhar,Haldibari,26.327427,90.447237,8,8,2020
+AS/KOK/2020/32/403,Assam,Kokrajhar,Mukhigaon,26.41508,90.199177,8,8,2020
+AS/MAR/2020/32/404,Assam,Marigaon,Ghumatigaon,26.313393,92.504734,5,8,2020
+AS/BON/2020/31/393,Assam,Bongaigaon,Kachudola,26.260824,90.497114,29,7,2020
+AS/BON/2020/31/393,Assam,Bongaigaon,North Salmara,26.375088,90.615127,29,7,2020
+AS/BON/2020/30/385,Assam,Bongaigaon,Bhawlaguri,26.48916,90.536367,22,7,2020
+AS/BON/2020/30/385,Assam,Bongaigaon,Kumrakata,26.309592,90.560045,22,7,2020
+AS/BON/2020/30/385,Assam,Bongaigaon,Nasatra,26.323386,91.059993,22,7,2020
+AS/BON/2020/30/385,Assam,Bongaigaon,Srijangram,26.383275,90.724457,22,7,2020
+AS/KAD/2020/30/386,Assam,Karbi-Anglog,Dokhora Bey Gaon,26.427315,93.778519,11,7,2020
+AS /NCH/2020 /30 /389,Assam,Dima Hasao,Langting,25.499046,93.113015,24,7,2020
+AS/UAL/2020/30/390,Assam,Udalguri,Nisilamari,26.715781,92.344078,24,7,2020
+MH/AMN/2020/29/374,Assam,Dhemaji,Borbila,27.476781,94.432426,15,7,2020
+MH/AMN/2020/29/375,Assam,Lakhimpur,Morton Chapori,27.063377,94.227219,19,7,2020
+MH/AMN/2020/29/379,Assam,Karbi-Anglog,Rongkimi,26.37221,93.261775,4,7,2020
+MH/AMN/2020/29/380,Assam,Kokrajhar,Dotma,26.483882,90.164099,26,6,2020
+MH/AMN/2020/29/382,Assam,Marigaon (Morigaon),Borchapori,26.979664,93.867938,29,6,2020
+MH/AMN/2020/29/382,Assam,Marigaon (Morigaon),Bagalipara,26.413254,92.315107,29,6,2020
+MH/AMN/2020/29/382,Assam,Marigaon (Morigaon),Pub-Jaluguti,26.272754,92.421991,29,6,2020
+AS/BON/2020/28/366,Assam,Bongaigaon,Chakrasila,26.286318,90.362465,9,7,2020
+AS/MAR/2020/28/368,Assam,Marigaon (Morigaon),Borchapori,26.979664,93.867938,9,7,2020
+AS/MAR/2020/28/368,Assam,Marigaon (Morigaon),Moirabari,26.453265,92.427292,9,7,2020
+AS/MAR/2020/28/368,Assam,Marigaon (Morigaon),Laharighat,26.41918,92.34026,9,7,2020
+AS/SNT/2020/28/369,Assam,Sonitpur (Tezpur),Namonigaon in Rangapara,26.818088,92.684397,8,7,2020
+AS/GLG/2020/28/370,Assam,Golaghat,Difoloo (Diphloo) Tea Estate,26.633026,93.564505,22,6,2020
+AS/UAL/2020/28/371,Assam,Udalguri,Bholabari,26.641336,92.078566,29,6,2020
+AS/MAR/2020/27/364,Assam,Morigaon,Dharamtul,26.190582,92.375686,23,6,2020
+MH/GAD/2020/24/349,Maharashtra,Gadchiroli,Kothari,19.580877,79.964995,31,5,2020
+AS/JRT/2020/20/309,Assam,Jorhat,Titabor,26.588418,94.189109,15,5,2020
+AS/JRT/2020/20/309,Assam,Jorhat,Nakachari,26.703935,94.452049,15,5,2020
+MN/BSN/2020/20/310,Manipur,Bishnupur,Moirang,24.498239,93.774405,13,5,2020
+CT/BAS/2020/05/0074,Chhattisgarh,Bastar (Baster),Sargipal,19.213968,82.068375,29,1,2020
+CT/BAS/2020/05/0074,Chhattisgarh,Bastar (Baster),Dhuragaon,19.168931,81.77531,29,1,2020
+CT/BAS/2020/05/0074,Chhattisgarh,Bastar (Baster),Matkot,19.010967,81.840686,29,1,2020
+CT/BAS/2020/05/0074,Chhattisgarh,Bastar (Baster),Bhanpuri,19.351079,81.817091,29,1,2020
+JH/ESI/2020/01/0015,Jharkhand,East Singhbhum,Golmuri-Jugsalai,22.768136,86.164258,5,1,2020
+JH/ESI/2020/01/0016,Jharkhand,East Singhbhum,Musabani,22.503664,86.454432,5,1,2020
+KN /KOL/2020/01/0017,Karnataka,Kolar,Milathnagar (Rahmath Nagar),13.149599,78.127119,5,1,2020
+CT/BJP/2019/52/1673,Chhattisgarh,Bijapur,Nelasnar,19.008699,81.192188,29,12,2019
+CT/BJP/2019/50/1625,Chhattisgarh,Bijapur,Pinkonda,18.936385,81.135883,13,12,2019
+CT/BAS/2019/48/1566,Chhattisgarh,Bastar (Baster),Rajur,18.990769,81.882617,30,11,2019
+MP /ASH/2019/43/1399,Madhya Pradesh,Ashok Nagar,Chhipon,24.33424,77.637806,23,10,2019
+AS/MAR/2019/43/1409,Assam,Marigaon (Morigaon),Saruchala,26.375474,92.432179,27,10,2019
+JH/SAK/2019/42/1337,Jharkhand,Saraikela Kharsawan,Kukru,23.115129,85.981737,19,10,2019
+MH/GAD/2019/42/1372,Maharashtra,Gadchiroli,Gatta,20.026663,80.33741,20,10,2019
+JH/WSI/2019/39/1243,Jharkhand,West Singhbhum,Kera (Kerakhas),22.736404,85.566947,28,9,2019
+CT/SBT/2019/36/1135,Chhattisgarh,Dantewada,Midkudnar (Midkulnar),18.914002,81.256792,4,9,2019
+CT/SBT/2019/36/1135,Chhattisgarh,Dantewada,Siyanaar (Siyanar),18.962294,81.297266,4,9,2019
+MH/WDH/2019/35/1094,Maharashtra,Wardha,Sindhi Meghe Ward no 03,20.750872,78.575299,30,8,2019
+MH/AMR/2019/34/1074,Maharashtra,Amravati,Chincholi,20.755226,78.281821,25,8,2019
+AP/SAG/2019/33/1029,Arunachal Pradesh,East Siang,Lokpeng,28.211413,94.989759,18,8,2019
+AR/WSN/2019/31/0969,Arunachal Pradesh,West Siang,Aalo,28.163061,94.805273,4,8,2019
+AR/UPS/2019/29/0858,Arunachal Pradesh,Subansiri (Upper Subansiri),Daporijo,27.985667,94.222632,7,7,2019
+AR/LHT/2019/29/0859,Arunachal Pradesh,Tezu (Lohit),Tezu,27.919539,96.158803,6,7,2019
+AR/WKM/2019/29/0860,Arunachal Pradesh,West Kameng,Tippi,27.030554,92.611806,5,7,2019
+MH/CND/2019/29/0875,Maharashtra,Chandrapur,Bhagat Singh Ward (Ballarpur),19.839576,79.347722,19,7,2019
+MH/CND/2019/29/0876,Maharashtra,Chandrapur,Navegaon Pandav,20.585443,79.748118,20,7,2019
+NL/DMR/2019/29/0879,Nagaland,Dimapur,Supply Colony (Dimapur),25.911429,93.711265,17,7,2019
+MG/RIB/2019/29/0908,Meghalaya,RI- Bhoi (Nongpoh),Umsning,25.752173,91.888323,21,7,2019
+MH/WDH/2019/29/0912,Maharashtra,Wardha,Bhivapur (Bhiwapur),20.614253,78.641108,21,7,2019
+AR/ESN/2019/28/0821,Arunachal Pradesh,East Siang,Pasighat,28.062499,95.329482,9,7,2019
+BH/NAW/2019/28/0851,Bihar,Nawada,Bhola Bigha,24.93303,85.563669,14,7,2019
+BH/JAH/2019/28/0850,Bihar,Jahanabad,Sikariya,25.273567,84.975262,14,7,2019
+BH/JAH/2019/28/0850,Bihar,Jahanabad,Kakariya (Kakaria),25.247618,85.508313,14,7,2019
+BH/JAH/2019/28/0850,Bihar,Jahanabad,Erki,25.192102,84.982911,14,7,2019
+MN/IMP/2019/26/0751,Manipur,West Imphal,Yaikongpao (Tagaramphung),25.121163,93.961392,30,6,2019
+MN/IMP/2019/26/0751,Manipur,West Imphal,Kangpokpi,25.151346,93.969404,30,6,2019
+MN/IMP/2019/26/0751,Manipur,West Imphal,Moidangpokpi (Moidangpok),24.770827,93.817406,30,6,2019
+MN/IMP/2019/26/0751,Manipur,West Imphal,Irom Meijao (Irom Meijrao),24.693503,93.882948,30,6,2019
+CT/BAS/2019/26/0762,Chhattisgarh,Bastar (Baster),Cholnar,19.290323,81.95501,30,6,2019
+AS/KMR/2019/24/0675,Assam,Kamrup,Garal Kohaban (Garal),26.140402,91.595106,16,6,2019
+AS/ERN/2019/23/0613,Assam,Cachar,Soligram (Saligram),24.985766,92.559085,9,6,2019
+AS/BON/2019/17/0417,Assam,Darrang,Maharipara,26.585522,91.729942,28,4,2019
+MG/JTH/2018/49/1560,Meghalaya,Jaintia Hills,Thadlaskein,25.501942,92.172115,9,12,2018
+CT/SBT/2018/42/1372,Chhattisgarh,Dantewada,Kankipara,18.5685,81.2857,20,10,2018
+JH/GDA/2018/41/1352,Jharkhand,Godda,Lohandia (Lohandiya),25.052029,87.375425,10,10,2018
+JH/GDA/2018/41/1352,Jharkhand,Godda,Lalmatia,25.053759,87.360512,10,10,2018
+JH/GDA/2018/41/1352,Jharkhand,Godda,Dakaita,25.024082,87.309155,10,10,2018
+JH/GDA/2018/41/1352,Jharkhand,Godda,Boarijore (Boarijor),25.061988,87.474831,10,10,2018
+AS/CCR/2018/39/1295,Assam,Cachar,Madhurbond,24.819438,92.812361,30,9,2018
+AS/GLP/2018/39/1298,Assam,Goalpara,Paharsingpara (Paharsing Para),26.126704,90.66561,30,9,2018
+AS/GLP/2018/39/1298,Assam,Goalpara,Nayapara,26.08175,90.835117,30,9,2018
+AS/GLP/2018/39/1298,Assam,Goalpara,Harimura,26.090627,90.666382,30,9,2018
+AS/GLP/2018/39/1298,Assam,Goalpara,Dhaigaon,26.03139,90.698765,30,9,2018
+MN/UKH/2018/38/1272,Manipur,East Imphal,Lamlai,24.867787,94.049481,23,9,2018
+MN/UKH/2018/38/1272,Manipur,East Imphal,Makha Leikai,24.786652,93.972325,23,9,2018
+AR/PPM/36/1225,Arunachal Pradesh,Papumpare,Naharlagun,27.107217,93.693999,31,8,2018
+MN/UKH/2018/35/1223,Manipur,East Imphal,Chingmeirong,24.832405,93.946549,2,9,2018
+MN/IMP/2018/34/1187,Manipur,West Imphal,Game,24.824272,93.895921,26,8,2018
+AR/NMI/2018/33/1159,Arunachal Pradesh,Namsai,Piyong,27.581327,95.942225,20,8,2018
+MN/TBL/2018/33/1172,Manipur,Thoubal,Yairipok,24.67819,94.061986,19,8,2018
+MN/MNP/2018/32/1158,Manipur,East Imphal,Sagolmang,24.955921,94.0237,12,8,2018
+MN/SEN/2018/31/1138,Manipur,Senapati,Taphou Kuki,25.244452,94.009618,5,8,2018
+AS/KOK/2018/30/1103,Assam,Kokrajhar,Shanti Nagar (Santinagar) Koktajhar (Kokrajhar),26.403208,90.263886,29,7,2018
+MN/MNP/2018/30/1111,Manipur,East Imphal,Keirao Bitra,24.709859,93.97153,29,7,2018
+AS/UAL/2018/29/1027,Assam,Udalguri,Suklai,26.733028,91.766478,19,7,2018
+OR/JAJ/2018/29/1044,Odisha,Jajpur,Mulapal,20.939786,86.27757,19,7,2018
+AS/DAR/2018/29/1058,Assam,Darrang,Khalihoi pathar,26.271304,91.8299,22,7,2018
+AS/DAR/2018/29/1058,Assam,Darrang,Borachuba,26.362241,91.963143,22,7,2018
+AS/GLG/2018/29/1059,Assam,Golaghat,Doyang,26.42162,93.983408,22,7,2018
+BH/MZP/2018/29/1062,Bihar,Muzaffarpur,Sujawalpur,25.962214,85.56451,22,7,2018
+MH/CND/2018/29/1073,Maharashtra,Chandrapur,Shivani,19.611675,79.781256,22,7,2018
+MH/CND/2018/29/1074,Maharashtra,Chandrapur,Dighori,19.86979,79.735177,22,7,2018
+MH/BNR/2018/28/1003,Maharashtra,Bhandara,Chullhad (Chulhad),21.474177,79.78696,13,7,2018
+AS/TIN/2018/28/1022,Assam,Tinsukia,Guijan,27.566897,95.326588,15,7,2018
+BH/MZP/2018/28/1023,Bihar,Muzaffarpur,Najirpur (Nazirpur),26.133877,85.404717,15,7,2018
+BH/MZP/2018/28/1023,Bihar,Muzaffarpur,Sutihara,26.067036,85.473561,15,7,2018
+BH/MZP/2018/28/1023,Bihar,Muzaffarpur,Sahbazpur (Shahbazpur),26.164703,85.32137,15,7,2018
+BH/MZP/2018/28/1023,Bihar,Muzaffarpur,Dronpur (Jhapaha),26.194633,85.414042,15,7,2018
+AS/MAR/2018/27/950,Assam,Marigaon (Morigaon),Duwamari (Duamari),26.368769,92.36017,4,7,2018
+MP/VSA/2018/26/945,Madhya Pradesh,Vidisha,Puranpura,23.512667,77.824841,1,7,2018
+MH/GAD/2018/24/857,Maharashtra,Gadchiroli,Yerkad,20.344304,80.369184,17,6,2018
+MH/GAD/2018/24/857,Maharashtra,Gadchiroli,Paima,19.45077,80.241547,17,6,2018
+MH/GAD/2018/24/857,Maharashtra,Gadchiroli,Kotgul,20.55198,80.567597,17,6,2018
+HP/SLN/2018/22/738,Himachal Pradesh,Solan,Dharampur,30.899023,77.020559,28,5,2018
+MH/BNR/2018/13/401,Maharashtra,Bhandara,Ghodezari,20.874852,79.786546,1,4,2018
+MH/THN/2017/52/1711,Maharashtra,Thane,Ajiwaali (Ajivali),18.957722,73.16845,31,12,2017
+CT/SBT/2017/49/1650,Chhattisgarh,Dantewada,Pondum,18.889897,81.457526,4,12,2017
+CT/SBT/2017/49/1651,Chhattisgarh,Dantewada,Benpal (Bainpal),18.646442,81.253077,10,12,2017
+CT/BJP/2017/49/1662,Chhattisgarh,Bijapur,Pedagellor (Pedyageloor),18.450472,80.981034,10,12,2017
+MH/PLR/2017/44/1554,Maharashtra,Palaghar (Palghar),"Phulpada (Phoolpada, Fulpada)",19.455595,72.829205,5,11,2017
+GJ/NAR/2017/43/1502,Gujarat,Narmada,Selamba,21.517291,73.820979,24,10,2017
+MH/PNE/2017/42/1495,Maharashtra,Pune,Chakan,18.762296,73.862472,22,10,2017
+MH/OSM/2017/41/1454,Maharashtra,Osmanabad, Aloor (Alur),17.698063,76.424621,13,10,2017
+MH/RGD/2017/41/1473,Maharashtra,Raigad,Usha Nagar,18.781088,73.341872,15,10,2017
+MH/JLN/2017/34/1247,Maharashtra,Jalna,Kumbhar Pimpalgaon,19.39298,76.059916,27,8,2017
+MG/WGH/2017/33/1203,Meghalaya,West Garo Hills,Darengre,25.484168,90.223588,14,8,2017
+AS/GLP/2017/30/1115,Assam,Goalpara,Ghengamari,26.100557,90.510202,30,8,2017
+AS/NLB/2017/28/1033,Assam,Nalbari,Chengnoi,26.519931,91.491305,16,7,2017
+AS/SNT/2017/28/1034,Assam,Sonitpur,Bihaguri (Bihuguri),26.676653,92.683024,16,7,2017
+AS/SNT/2017/28/1034,Assam,Sonitpur,Pithakhowa,26.67417,92.670595,16,7,2017
+AS/SNT/2017/28/1034,Assam,Sonitpur,Balipara,26.824528,92.77658,16,7,2017
+AS/TIN/2017/23/0858,Assam,Tinsukia,Pakhorijan,27.465456,95.384649,11,6,2017
+AS/TIN/2017/23/0858,Assam,Tinsukia,Guijan,27.566897,95.326588,11,6,2017
+AS/TIN/2017/23/0858,Assam,Tinsukia,Panitola,27.493787,95.256765,11,6,2017
+AS/TIN/2017/23/0858,Assam,Tinsukia,Bebejia,27.474406,95.674512,11,6,2017
+AS/TIN/2017/23/0858,Assam,Tinsukia,Makum,27.489123,95.436944,11,6,2017
+AS/TIN/2017/23/0858,Assam,Tinsukia,Bordoloi Nagar,27.503535,95.355688,11,6,2017
+AS/TIN/2017/23/0858,Assam,Tinsukia,Dhola (Dholla),27.740792,95.579123,11,6,2017
+AS/TIN/2017/23/0858,Assam,Tinsukia,Ledu (Ledo),27.295378,95.735309,11,6,2017
+MH/BNR/2017/22/0827,Maharashtra,Bhandara,Narvha (Narva),20.89457,79.894748,4,6,2017
+AH/DBG/2017/18/0629,Assam,Dibrugarh,Duliajan,27.357852,95.322361,6,5,2017
+AH/DBG/2017/18/0629,Assam,Dibrugarh,Digholia (Dighalia),27.288207,95.217865,6,5,2017
+MH/NAG/2016/43/2440,Maharashtra,Nagpur,Tarsa,21.225417,79.381349,27,10,2016
+AS/BKA/2016/31/1865,Assam,Baksa,Madhapur,26.517507,91.32376,7,8,2016
+AS/BKA/2016/31/1865,Assam,Baksa,Tukurakuchi,26.690484,91.196139,7,8,2016
+MG/WGH/2016/27/1595,Meghalaya,West Garo Hills,Malchapara,25.529923,90.025131,8,7,2016
+AS/JRT/2016/27/1612,Assam,Jorhat,Cinnamora (Cinnamara),26.705515,94.239743,10,7,2016
+MN/TBL/2016/26/1548,Manipur,Thoubal,Lilong,24.68517,93.950707,4,7,2016
+AS/MAR/2016/25/1495,Assam,Marigaon (Morigaon),Kasarigaon,26.186809,92.224927,26,6,2016
+AS/MAR/2016/25/1495,Assam,Marigaon (Morigaon), Jagiroad,26.124533,92.197179,26,6,2016
+KN/CKR/2016/25/1501,Karnataka,Chikkaballapur,Sidlaghatta,13.39077,77.861839,26,6,2016
+AS/TIN/2016/25/1497,Assam,Tinsukia,Hapjan,27.516063,95.481552,26,6,2016
+AS/TIN/2016/25/1497,Assam,Tinsukia,Kakopathar,27.641107,95.667357,26,6,2016
+AS/TIN/2016/25/1497,Assam,Tinsukia,Ketetong,27.332557,95.701541,26,6,2016
+AS/TIN/2016/25/1497,Assam,Tinsukia,Nasadiya,27.857349,95.765372,26,6,2016
+AS/GLP/2016/24/1436,Assam,Goalpara,Narangabari,26.073534,90.387261,19,6,2016
+AS/MAR/2016/24/1437,Assam,Marigaon (Morigaon),Baramari,26.282143,92.109896,19,6,2016
+AS/MAR/2016/24/1437,Assam,Marigaon (Morigaon),Borchapori,26.979664,93.867938,19,6,2016
+AS/NGO/2016/24/1438,Assam,Nagaon,Udmari,26.401303,92.631683,19,6,2016
+AS/NGO/2016/24/1438,Assam,Nagaon,Dhaniabheti (Dhania Bheti),26.392768,92.534385,19,6,2016
+AS/NGO/2016/24/1438,Assam,Nagaon,Longjap,26.045078,92.648691,19,6,2016
+AS/NLB/2016/22/1259,Assam,Nalbari,Balijar (Balizar),26.459219,91.396743,4,6,2016
+AS/DBG/2016/7/0304,Assam,Dibrugarh,Tamulikhat (Tamuli Khat),27.381248,95.155272,21,2,2016
+53/2015/SN10,Maharashtra,Wardha,Hinganghat,20.549296,78.84083,28,12,2015
+53/2015/SN10,Maharashtra,Wardha,Kangaon,20.510505,78.612855,28,12,2015
+48/2015/SN4.late,Bihar,Madhubani,Andhrathadi (Andhratharhi),26.383892,86.327021,29,11,2015
+41/2015/SN12.late,Meghalaya,Ri- Bhoi (Nongpoh),Mawthei,25.7373,92.000002,11,10,2015
+41/2015/SN12.late,Meghalaya,Ri- Bhoi (Nongpoh),Sohphoh,25.565488,92.157389,11,10,2015
+38/2015/SN7.late,Manipur,East Imphal,Khurai Chingabam Leikai (Khurai Chingangbam Leikai),24.820334,93.963414,20,9,2015
+37/2015/SN7.late,Jharkhand,East Singhbhum,Bhalubasa,22.806357,86.219863,13,9,2015
+36/2015/SN14.late,Uttar Pradesh,Lakhimpur Kheri,Phoolbehar (Phool Behar),28.045909,80.799133,6,9,2015
+32/2015/SN2,Assam,Dhubri,Chapghar (Chapgarh),26.117783,89.95978,3,8,2015
+32/2015/SN11,Meghalaya,West Garo Hills,Dorgapara,25.361392,89.891529,4,8,2015
+27/2015/SN1.late,Assam,Dibrugarh,Achabam,27.242208,95.268031,5,7,2015
+17/2015/SN6.late,Maharashtra,Gadchiroli,Kothi,19.54038,80.591883,26,4,2015
+17/2015/SN6.late,Maharashtra,Nagpur,Patgowari,21.381349,79.227768,26,4,2015
+44/2014/SN23,West Bengal,Birbhum,Dewangong (Dewanganj),24.061326,87.588448,27,10,2014
+44/2014/SN23,West Bengal,Birbhum,Patalnagar (Pattel Nagar),23.985277,87.58782,27,10,2014
+42/2014/SN5,Haryana,Kaithal,Barsikiri (Badsikri),29.610681,76.320283,19,10,2014
+36/2014/SN24,Uttar Pradesh,Lakhimpur Kheri,Lakhahi,28.165524,80.973976,5,9,2014
+36/2014/SN24,Uttar Pradesh,Lakhimpur Kheri,Sri Nagar (Shrinagar),28.089827,80.790336,5,9,2014
+33/2014/SN5,Karnataka,Udupi,Santhekatte,13.136285,74.767558,16,8,2014
+33/2014/SN5,Karnataka,Udupi,Pilar,13.204348,74.842555,16,8,2014
+33/2014/SN5,Karnataka,Udupi,Innanje,13.248127,74.767972,16,8,2014
+33/2014/SN5,Karnataka,Udupi,Yedthady,13.49788,74.766894,16,8,2014
+33/2014/SN5,Karnataka,Udupi,Maravanthe,13.725215,74.645147,16,8,2014
+31/2014/SN1.late,Assam,Tinsukia,Hapjan,27.516063,95.481552,3,8,2014
+31/2014/SN1.late,Assam,Tinsukia,Ketetong,27.332557,95.701541,3,8,2014
+31/2014/SN1.late,Assam,Tinsukia,Kakopathar,27.641107,95.667357,3,8,2014
+31/2014/SN1.late,Assam,Tinsukia,Nasadiya,27.857349,95.765372,3,8,2014
+30/2014/SN14.late,Assam,Baksa,Tamulpur,26.640354,91.576543,27,7,2014
+30/2014/SN14.late,Assam,Baksa,Musalpur (Mushalpur),26.65931,91.342521,27,7,2014
+30/2014/SN14.late,Assam,Baksa,Barama,26.52703,91.355095,27,7,2014
+30/2014/SN14.late,Assam,Baksa,Jalah (Jalahgaon),26.652991,91.221151,27,7,2014
+30/2014/SN14.late,Assam,Baksa,Golagaon,26.733988,91.2565,27,7,2014
+30/2014/SN14.late,Assam,Sivasagar,Demow,27.127362,94.73927,27,7,2014
+30/2014/SN14.late,Assam,Sivasagar,Gaurisagar,26.940689,94.545704,27,7,2014
+30/2014/SN14.late,Assam,Sivasagar,Khelua (Kheluwa),26.987153,94.728399,27,7,2014
+30/2014/SN14.late,Assam,Sivasagar,Kaloogaon (Kalugaon),26.921384,94.626886,27,7,2014
+30/2014/SN14.late,Assam,Sivasagar,Patsaku,27.025622,94.829127,27,7,2014
+30/2014/SN14.late,Assam,Sivasagar,Sapekhati,27.11086,95.162995,27,7,2014
+30/2014/SN14.late,Assam,Kokrajhar,Balajan,26.485084,90.303369,27,7,2014
+30/2014/SN14.late,Assam,Kokrajhar,Dotoma (Dotma),26.483882,90.164099,27,7,2014
+30/2014/SN14.late,Assam,Kokrajhar,Gossaigaon,26.435876,89.98043,27,7,2014
+30/2014/SN14.late,Assam,Darrang,Sipajhar,26.397865,91.90278,27,7,2014
+30/2014/SN14.late,Assam,Darrang,Jaljali,26.53369,91.586811,27,7,2014
+30/2014/SN14.late,Assam,Darrang,Patharighat,26.457943,91.910419,27,7,2014
+30/2014/SN14.late,Assam,Nagaon,Barapujia,26.267758,92.501507,27,7,2014
+30/2014/SN14.late,Assam,Nagaon,Dhing,26.45673,92.483939,27,7,2014
+30/2014/SN14.late,Assam,Nagaon,Dagaon (Da-gaon),26.441048,92.614219,27,7,2014
+30/2014/SN14.late,Assam,Nagaon,Jakhalabandha,26.573192,93.005276,27,7,2014
+30/2014/SN14.late,Assam,Nagaon,Samaguri,26.415317,92.842326,27,7,2014
+30/2014/SN14.late,Assam,Nagaon,Jugijan,26.038581,92.806641,27,7,2014
+30/2014/SN14.late,Assam,Nagaon,Kathiatoli (Kathiatali),26.187724,92.735259,27,7,2014
+30/2014/SN14.late,Assam,Nagaon,Lanka,25.92412,92.953992,27,7,2014
+29/2014/SN2,Arunachal Pradesh,Papumpare,Sippi,28.068309,94.168939,20,7,2014
+29/2014/SN2,Arunachal Pradesh,Papumpare,Nirjuli,27.131353,93.740294,20,7,2014
+29/2014/SN2,Arunachal Pradesh,Papumpare,Daporijo,27.985667,94.222632,20,7,2014
+32/2013/SN1.late,Assam,Cachar,Sonai,24.73394,92.888997,11,8,2013
+32/2013/SN1.late,Assam,Cachar,Dholai,24.589515,92.840663,11,8,2013
+32/2013/SN1.late,Assam,Cachar,Udharbond,24.883516,92.878804,11,8,2013
+32/2013/SN1.late,Assam,Cachar,Borkhola,24.925607,92.746945,11,8,2013
+27/2013/SN1.late,Assam,Sibsagar (Sivasagar),Demow,27.127362,94.73927,7,7,2013
+27/2013/SN1.late,Assam,Sibsagar (Sivasagar),Geleky (Gelakey),26.793886,94.686806,7,7,2013
+27/2013/SN1.late,Assam,Sibsagar (Sivasagar),Gaurisagar,26.940689,94.545704,7,7,2013
+27/2013/SN1.late,Assam,Sibsagar (Sivasagar),Kaloogaon (Kalugaon),26.921384,94.626886,7,7,2013
+27/2013/SN1.late,Assam,Sibsagar (Sivasagar),Khelua (Kheluwa),26.987153,94.728399,7,7,2013
+27/2013/SN1.late,Assam,Sibsagar (Sivasagar),Patsaku,27.025622,94.829127,7,7,2013
+27/2013/SN1.late,Assam,Sibsagar (Sivasagar),Sapekhati,27.11086,95.162995,7,7,2013
+8/2013/SN2.late,Assam,Dibrugarh,Oupholia (Ouphulia),27.335987,95.335268,24,2,2013
+8/2013/SN2.late,Assam,Dibrugarh,Chakalia,27.12803,94.824178,24,2,2013
+8/2013/SN2.late,Assam,Dibrugarh,Dillighat,27.147469,95.370325,24,2,2013
+49/2012/SN3.late,Odisha,Malkangiri,Potrel,18.271028,81.99896,9,12,2012
+49/2012/SN3.late,Odisha,Malkangiri,Uskapalli,18.2489,82.015393,9,12,2012
+30/2012/SN1.late,Bihar,East Champaran,Raxaul,26.981299,84.852159,29,7,2012
+30/2012/SN1.late,Bihar,East Champaran,Ramgarwa (Ramgarhwa),26.875754,84.783028,29,7,2012
+30/2012/SN1.late,Bihar,East Champaran,Adapur,26.927019,84.943147,29,7,2012
+25/2012/SN2.late,Assam,Morigaon,Loonmati,26.260494,92.02211,24,6,2012
+44/2011/SN6.late,Uttar Pradesh,Maharajganj,Ghughali (Ghughuli),27.094338,83.736286,6,11,2011
+44/2011/SN6.late,Uttar Pradesh,Maharajganj,Paniyara,26.997693,83.464015,6,11,2011
+44/2011/SN6.late,Uttar Pradesh,Maharajganj,Dhani,27.118596,83.168145,6,11,2011
+44/2011/SN6.late,Uttar Pradesh,Maharajganj,Mithaura,27.240179,83.671611,6,11,2011
+44/2011/SN6.late,Uttar Pradesh,Maharajganj,Sisawa,27.227916,83.785761,6,11,2011
+44/2011/SN6.late,Uttar Pradesh,Maharajganj,Nichlaul,27.306786,83.724317,6,11,2011
+44/2011/SN6.late,Uttar Pradesh,Maharajganj,Ratanpur,27.418418,83.502906,6,11,2011
+44/2011/SN6.late,Uttar Pradesh,Maharajganj,Laxmipur,27.264461,83.405829,6,11,2011
+40/2011/SN3,Haryana,Kaithal,Pundri,29.764673,76.55797,30,9,2011
+40/2011/SN3,Haryana,Kaithal,Siwan,29.887258,76.353849,30,9,2011
+40/2011/SN3,Haryana,Kaithal,Rajound,29.577674,76.485744,30,9,2011
+40/2011/SN3,Haryana,Kaithal,Deoban,29.688095,76.412492,30,9,2011
+40/2011/SN3,Haryana,Kaithal,Guhla,30.038909,76.29859,30,9,2011
+39/2011/SN1.followup,Bihar,Gaya,Paraiya,24.818601,84.842906,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Bodhgaya (Bodh Gaya),24.697519,84.987599,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Tankuppa,24.701558,85.13369,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Wazirganj,24.800618,85.243291,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Manpur,24.801985,85.025886,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Dumariya,24.439809,84.397244,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Gurua,24.668253,84.777106,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Guraru,24.807109,84.793124,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Dobhi,24.536601,84.909132,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Mohanpur,24.575552,85.083529,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Belaganj,24.970444,84.973624,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Fatehpur (Fateh Pur),24.629264,85.223255,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Sherghati,24.558413,84.796322,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Atri,24.936914,85.197253,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Tekari,24.941748,84.843936,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Konch (Konchi),24.785605,84.781982,2,10,2011
+39/2011/SN1.followup,Bihar,Gaya,Khijersarai (Khizarsarai),24.967004,85.091985,2,10,2011
+37/2011/SN2,Bihar,Jamui,Ameen (Amin),24.92365,86.1318,15,9,2011
+37/2011/SN2,Bihar,Jamui,Ranhan,24.911954,86.094274,15,9,2011
+37/2011/SN13,West Bengal,Jalpaiguri,Dabgram,26.695066,88.447885,12,9,2011
+37/2011/SN13,West Bengal,Jalpaiguri,Panikauri,26.580314,88.517919,12,9,2011
+37/2011/SN13,West Bengal,Jalpaiguri,Paharur (Paharpur),26.579297,88.727059,12,9,2011
+37/2011/SN13,West Bengal,Jalpaiguri,Patkata,26.571811,88.659878,12,9,2011
+37/2011/SN2.followup,Jharkhand,East Singhbhum,Patamda,22.905814,86.38862,18,9,2011
+37/2011/SN2.followup,Jharkhand,East Singhbhum,Chakulia,22.476393,86.719293,18,9,2011
+37/2011/SN2.followup,Jharkhand,East Singhbhum,Jugsalai Jamshedpur,22.763411,86.188307,18,9,2011
+28/2011/SN1.late,Assam,Barpeta,Satrakanara (Satra Kanara),26.258779,90.919994,17,7,2011
+28/2011/SN1.late,Assam,Barpeta,Bamakhata,26.533136,91.178381,17,7,2011
+28/2011/SN1.late,Assam,Barpeta,Tarabari,26.263409,91.135795,17,7,2011
+28/2011/SN1.late,Assam,Golaghat,Milonpur,26.215221,94.002335,17,7,2011
+28/2011/SN1.late,Assam,Golaghat,Mokrong Tea Estate,26.36021,94.079453,17,7,2011
+28/2011/SN1.late,Assam,Golaghat,Bokakhat Tea Estate,26.635438,93.642011,17,7,2011
+27/2011/SN2.late,Assam,Kamrup,Rajabazar (Raja Bazar),26.288684,91.560728,10,7,2011
+27/2011/SN2.late,Assam,Kamrup,Dihina,26.341434,91.581509,10,7,2011
+27/2011/SN2.followup,Assam,Darrang,Satgaharia (Satgharia),26.420018,91.931207,10,7,2011
+25/2011/SN6,Karnataka,Shimoga,Sanyasikodi Maggi (Sanyasi kodimaggi),14.044982,75.697689,22,6,2011
+25/2011/SN11,Tamil Nadu,Tiruchirappalli,Podhavur (Podavur),10.796067,78.569077,25,6,2011
+25/2011/SN3.followup,Kerala,Alaphuzha,Arattupuzha,10.4171,76.226154,26,6,2011
